@@ -9,8 +9,8 @@ The following figure shows the workflow of ELIXIR. First, a recommendation model
 The released code contains the following packages:
 
 **ppr**: This package implements the recommendation model (RecWalk) and feedback incorporation.
-- **interaction_graph.py**: This file builds the interaction graph based on users’ initial ratings and adds similarity edges following the method described in the [RecWalk paper] (https://www.nikolako.net/papers/ACM_WSDM2019_RecWalk.pdf).
-- **rwr.py**: This file computes personalized PageRank scores for each user. These scores are directly used to rank the candidate recommendations. In this file, we also compute the contribution score of items in users’ history to their recommendations using an approximation of the [PRINCE algorithm] (https://dl.acm.org/doi/pdf/10.1145/3336191.3371824).
+- **interaction_graph.py**: This file builds the interaction graph based on users’ initial ratings and adds similarity edges following the method described in the [RecWalk paper](https://www.nikolako.net/papers/ACM_WSDM2019_RecWalk.pdf).
+- **rwr.py**: This file computes personalized PageRank scores for each user. These scores are directly used to rank the candidate recommendations. In this file, we also compute the contribution score of items in users’ history to their recommendations using an approximation of the [PRINCE algorithm](https://dl.acm.org/doi/pdf/10.1145/3336191.3371824).
 - **feedback_incorporation.py**: In this file, we update items’ representations using the learned user-specific preference vector, update the interaction graph and re-compute the recommendation scores.
 
 **similarity**: This package is responsible for computing as well as updating item-item similarity matrix.
