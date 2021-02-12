@@ -1,0 +1,751 @@
+user	item	timestamp	rating	aspects	liked/disliked-aspects	comment
+18	644	-2-	4	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, 19th Century, British Literature, European Literature, Classic Literature ------ author(s): Jane Austen, Deidre Shauna Lynch, James Kinsley	Classics, Romance, Historical Fiction, Literature, Historical, 19th Century, British Literature	nan
+18	389	-2-	5	genre(s): Classics, Fiction, Historical Fiction, Adventure, France, Cultural, Literature, Historical, French Literature, European Literature ------ author(s): Alexandre Dumas	genre(s): Classics, Fiction, Historical Fiction, Adventure	nan
+18	902	-2-	5	genre(s): Classics, Fiction, School, Academic, Historical, Historical Fiction, Literature, Romance, Novels, Read For School ------ author(s): F. Scott Fitzgerald, F. Scott Fitzgerald, Eleanor Lanahan, Jesmyn Ward	genre, literature, classics	nan
+18	648	-2-	3	genre(s): Fiction, Magical Realism, Classics, Historical, Historical Fiction, Literature, Romance, Latin American, Cultural, Novels ------ author(s): Gabriel García Márquez	genre, magical, lassics, romance	nan
+18	267	-2-	5	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, Walter J. Cobb	genre, literature, classics, romance	nan
+18	17	-2-	5	genre(s): Fantasy, Young Adult, Science Fiction, Romance, Retellings, Dystopia, Fiction, Fairy Tales, Audiobook, Adventure ------ author(s): Marissa Meyer	genre, adult, fantasy	nan
+4	960	-2-	3	genre(s): Sequential Art, Manga, Comics, Graphic Novels, Horror, Mystery, Thriller, Fiction, Crime, Seinen ------ author(s): Naoki Urasawa, Satch Watanabe	Content	nan
+4	25	-2-	4	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Adult, Adult Fiction, Audiobook ------ author(s): Gillian Flynn	Genre	nan
+4	30	-2-	5	genre(s): Thriller, Fiction, Mystery, Science Fiction, Suspense, Crime, Mystery Thriller, Horror, Medical, Space ------ author(s): Tess Gerritsen	Genre	nan
+4	35	-2-	2	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Suspense, Crime, Adult, Psychological Thriller, Contemporary ------ author(s): Alex Michaelides	Content	nan
+4	36	-2-	2	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Crime, Psychological Thriller, Adult, Adult Fiction ------ author(s): A.J. Finn	Author	nan
+4	934	-2-	1	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Audiobook ------ author(s): Jenny Nimmo	Genre	nan
+24	640	-2-	3	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Historical, Childrens Classics, American, Literature ------ author(s): Eleanor H. Porter, Viltaras Alksnėnas	content	nan
+24	641	-2-	4	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	content	nan
+24	642	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Fairy Tales, Literature ------ author(s): J.M. Barrie, Michael Hague	genre, content	nan
+24	388	-2-	4	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Childrens, Literature, Pirates, Fantasy ------ author(s): Robert Louis Stevenson, David W. Whitehead, Richard S. Hartmetz	genre, author	nan
+24	385	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Literature, Novels, Middle Grade, Classic Literature ------ author(s): Jane Carruth, Lewis Carroll, Rene Cloke	genre	nan
+24	653	-2-	4	genre(s): Picture Books, Childrens, Christmas, Fiction, Fantasy, Classics, Holiday, Adventure, Kids, Juvenile ------ author(s): Chris Van Allsburg, Liam Neeson	genre	nan
+17	64	-2-	4	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Cultural, Sweden, Adult ------ author(s): Stieg Larsson, Reg Keeland	genre	nan
+17	395	-2-	4	genre(s): Romance, Fiction, Chick Lit, Womens Fiction, Contemporary, Adult, Adult Fiction, Contemporary Romance, Love, Drama ------ author(s): Nicholas Sparks	genre	nan
+17	15	-2-	3	genre(s): Romance, Fiction, Chick Lit, Womens Fiction, Contemporary, Adult, Adult Fiction, Contemporary Romance, Drama, Love ------ author(s): Nicholas Sparks	genre	nan
+17	16	-2-	3	genre(s): Romance, Contemporary, Contemporary Romance, Audiobook, Adult, Mental Health, Health, Fiction, New Adult, Drama ------ author(s): Marni Mann	genre	nan
+17	21	-2-	4	genre(s): Historical Fiction, Fiction, Historical, War, World War II, Audiobook, Adult, Cultural, France, Book Club ------ author(s): Anthony Doerr	genre	nan
+17	25	-2-	5	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Adult, Adult Fiction, Audiobook ------ author(s): Gillian Flynn	genre	nan
+21	640	-2-	4	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Historical, Childrens Classics, American, Literature ------ author(s): Eleanor H. Porter, Viltaras Alksnėnas	genre	nan
+21	385	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Literature, Novels, Middle Grade, Classic Literature ------ author(s): Jane Carruth, Lewis Carroll, Rene Cloke	genre, author	classics, fiction
+21	642	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Fairy Tales, Literature ------ author(s): J.M. Barrie, Michael Hague	genre	nan
+21	388	-2-	4	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Childrens, Literature, Pirates, Fantasy ------ author(s): Robert Louis Stevenson, David W. Whitehead, Richard S. Hartmetz	genre	nan
+21	263	-2-	2	genre(s): Classics, Fiction, Historical Fiction, Young Adult, Romance, Historical, Literature, Childrens, Classic Literature, Novels ------ author(s): Louisa May Alcott	author	nan
+21	855	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Literature, 19th Century ------ author(s): Lewis Carroll	genre, author	nan
+12	512	-2-	4	genre(s): Fiction, Albanian Literature, European Literature, Classics, Historical, Historical Fiction, Literature, 20th Century, Novels, Contemporary ------ author(s): Ismail Kadare	genre	nan
+12	4	-2-	3	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, Novels, Historical Romance, Adult, Classic Literature ------ author(s): Jane Austen, Anna Quindlen	content	nan
+12	5	-2-	3	genre(s): Classics, Fiction, Literature, Novels, Cultural, Russia, Romance, Russian Literature, Literary Fiction, 20th Century ------ author(s): Vladimir Nabokov, Craig Raine	genre,content	nan
+12	521	-2-	3	genre(s): Fiction, Classics, Short Stories, Literature, American, Africa, Cultural, 20th Century, Classic Literature, Literary Fiction ------ author(s): Ernest Hemingway	genre	nan
+12	267	-2-	2	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, Walter J. Cobb	content	nan
+12	396	-2-	2	genre(s): Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School, Academic, Classic Literature, 19th Century ------ author(s): Charles Dickens, Richard Maxwell	content	nan
+16	1031	-2-	3	genre(s): Psychology, Nonfiction, Self Help, Mental Health, Parenting, Relationships, Personal Development, Health, Counselling, Family ------ author(s): Lindsay C. Gibson	genre	nan
+16	909	-2-	4	genre(s): Self Help, Psychology, Nonfiction, Relationships, Marriage, Language, Communication, Personal Development, How To, Family ------ author(s): David D. Burns	genre	nan
+16	913	-2-	1	genre(s): Nonfiction, Language, Humanities, Linguistics, Science, Psychology, Anthropology, Sociology, Philosophy, History ------ author(s): Guy Deutscher	genre	nan
+16	238	-2-	5	genre(s): Nonfiction, Psychology, Business, Science, Self Help, Sociology, Audiobook, Personal Development, Philosophy, Leadership ------ author(s): Malcolm Gladwell	genre	nan
+16	1007	-2-	3	genre(s): Psychology, Nonfiction, Self Help, Mental Health, Health, Science, Social Work, Social Science, Counselling, Audiobook ------ author(s): Bessel A. van der Kolk	genre	nan
+16	413	-2-	5	author(s): James Clear, Ramit Sethi, Gary Keller Dr Carol Dweck, Mindset By Carol S. Dweck, I Will Teach You to Be Rich By Ramit Sethi, Atomic Habits By James Clear, One Thing By Gary Keller	content	nan
+25	900	-2-	3	genre(s): Self Help, Psychology, Nonfiction, Relationships ------ author(s): Lillian Glass	genre	nan
+25	908	-2-	4	genre(s): Self Help, Nonfiction, Business, Productivity, Personal Development, Psychology, Audiobook, Management, Leadership, Buisness ------ author(s): Brian Tracy	genre	nan
+25	909	-2-	3	genre(s): Self Help, Psychology, Nonfiction, Relationships, Marriage, Language, Communication, Personal Development, How To, Family ------ author(s): David D. Burns	genre	nan
+25	144	-2-	1	genre(s): Islam, Religion, Spirituality, Nonfiction ------ author(s): Nuh Ha Mim Keller	genre	nan
+25	913	-2-	4	genre(s): Nonfiction, Language, Humanities, Linguistics, Science, Psychology, Anthropology, Sociology, Philosophy, History ------ author(s): Guy Deutscher	genre	nan
+25	789	-2-	4	genre(s): Business, Nonfiction, Self Help, Personal Development, Leadership, Psychology, Entrepreneurship, Audiobook, Art, Productivity ------ author(s): Seth Godin	genre	nan
+22	1031	-2-	3	genre(s): Psychology, Nonfiction, Self Help, Mental Health, Parenting, Relationships, Personal Development, Health, Counselling, Family ------ author(s): Lindsay C. Gibson	genre	psychology
+22	664	-2-	4	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey	genre	personal development
+22	794	-2-	2	genre(s): Self Help, Nonfiction, Personal Development, Productivity, Business, Psychology, Audiobook, Health, Inspirational, Leadership ------ author(s): Hal Elrod	content	nan
+22	283	-2-	4	genre(s): Philosophy, Politics, History, Nonfiction, Cultural, Political Science, Russia, Economics, Religion, 20th Century ------ author(s): Bertrand Russell	author	nan
+22	672	-2-	4	genre(s): Nonfiction, Self Help, Business, Productivity, Psychology, Personal Development, Audiobook, Leadership, Management, Writing ------ author(s): Cal Newport	genre	personal development
+22	289	-2-	4	genre(s): Nonfiction, Politics, Economics, Philosophy, History, Business, Sociology, Society, Culture, Science ------ author(s): Paul  Mason	genre	politics
+13	641	-2-	3	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	author	nan
+13	642	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Fairy Tales, Literature ------ author(s): J.M. Barrie, Michael Hague	author	nan
+13	46	-2-	4	genre(s): Fantasy, Mythology, Young Adult, Middle Grade, Fiction, Adventure, Urban Fantasy, Magic, Childrens, Young Adult Fantasy ------ author(s): Rick Riordan	genre	nan
+13	928	-2-	4	genre(s): Fantasy, Young Adult, Childrens, Middle Grade, Fiction, Magic, Adventure, Mystery, Juvenile, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+13	929	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Fiction, Middle Grade, Magic, Adventure, Mystery, Juvenile, Time Travel ------ author(s): Jenny Nimmo	genre	nan
+13	930	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Fiction, Middle Grade, Magic, Adventure, Juvenile, Mystery, Young Adult Fantasy ------ author(s): Jenny Nimmo	genre	nan
+23	385	-2-	3	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Literature, Novels, Middle Grade, Classic Literature ------ author(s): Jane Carruth, Lewis Carroll, Rene Cloke	genre: Children, Fiction, Fantasy, Adventure	nan
+23	642	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Fairy Tales, Literature ------ author(s): J.M. Barrie, Michael Hague	genre: Children, Fiction, Fantasy, Adventure	nan
+23	641	-2-	5	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	genre: Children, Fiction, Fantasy, Animals	nan
+23	527	-2-	3	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Juvenile ------ author(s): Enid Blyton	genre: Children, Fiction, Fantasy, Adventure, Mystery	nan
+23	528	-2-	3	genre(s): Childrens, Adventure, Fiction, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Novels ------ author(s): Enid Blyton	genre: Children, Adventure, Mystery, Fiction	nan
+23	529	-2-	3	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, Novels, European Literature, British Literature ------ author(s): Enid Blyton	genre: Children, Adventure, Mystery, Fiction	nan
+14	908	-2-	3	genre(s): Self Help, Nonfiction, Business, Productivity, Personal Development, Psychology, Audiobook, Management, Leadership, Buisness ------ author(s): Brian Tracy	genre	Business, Productivity, Personal Development, Psychology
+14	914	-2-	2	genre(s): Personal Development, Self Help, Business, Nonfiction, Audiobook, Management, Productivity, Leadership ------ author(s): Darren Hardy	genre	nan
+14	789	-2-	3	genre(s): Business, Nonfiction, Self Help, Personal Development, Leadership, Psychology, Entrepreneurship, Audiobook, Art, Productivity ------ author(s): Seth Godin	genre	nan
+14	792	-2-	3	genre(s): Business ------ author(s): Yanik Silver	genre	nan
+14	794	-2-	3	genre(s): Self Help, Nonfiction, Personal Development, Productivity, Business, Psychology, Audiobook, Health, Inspirational, Leadership ------ author(s): Hal Elrod	genre,author	nan
+14	797	-2-	3	genre(s): Business, Nonfiction, Entrepreneurship, Buisness, Self Help, Management, Leadership, Personal Development, Psychology, Audiobook ------ author(s): Seth Godin	genre	nan
+5	790	-2-	4	genre(s): Self Help, Nonfiction, Spirituality, Personal Development, Inspirational, Psychology, Philosophy, Audiobook, Metaphysics, Entrepreneurship ------ author(s): Rhonda Byrne	genre	nan
+5	6	-2-	4	genre(s): Spirituality, Nonfiction, Religion, Hinduism, Philosophy ------ author(s): Chinmayananda Saraswati	genre	nan
+5	10	-2-	4	genre(s): Nonfiction, Spirituality, Psychology, Self Help, New Age, Romance, Philosophy, Love, Metaphysics, Paranormal ------ author(s): Brian L. Weiss	genre	nan
+5	151	-2-	5	genre(s): Philosophy, Nonfiction ------ author(s): Muhammad Iqbal	genre, author	nan
+5	140	-2-	4	genre(s): Islam, Religion, Philosophy, Nonfiction ------ author(s): Charles Le Gai Eaton	genre	nan
+5	142	-2-	4	genre(s): Islam, Religion, Spirituality, Nonfiction, Theology, Philosophy, Self Help ------ author(s): Abu Hamid al-Ghazali, Abdal Hakim Murad	genre	nan
+6	900	-2-	1	genre(s): Self Help, Psychology, Nonfiction, Relationships ------ author(s): Lillian Glass	genre	nan
+6	1031	-2-	1	genre(s): Psychology, Nonfiction, Self Help, Mental Health, Parenting, Relationships, Personal Development, Health, Counselling, Family ------ author(s): Lindsay C. Gibson	genre	nan
+6	908	-2-	1	genre(s): Self Help, Nonfiction, Business, Productivity, Personal Development, Psychology, Audiobook, Management, Leadership, Buisness ------ author(s): Brian Tracy	genre	nan
+6	909	-2-	1	genre(s): Self Help, Psychology, Nonfiction, Relationships, Marriage, Language, Communication, Personal Development, How To, Family ------ author(s): David D. Burns	genre	nan
+6	913	-2-	3	genre(s): Nonfiction, Language, Humanities, Linguistics, Science, Psychology, Anthropology, Sociology, Philosophy, History ------ author(s): Guy Deutscher	genre	nan
+6	789	-2-	3	genre(s): Business, Nonfiction, Self Help, Personal Development, Leadership, Psychology, Entrepreneurship, Audiobook, Art, Productivity ------ author(s): Seth Godin	genre	nan
+15	514	-2-	3	genre(s): Fiction, Historical, Historical Fiction, Albanian Literature, Literature, Novels, Classics, War, 20th Century, European Literature ------ author(s): Ismail Kadare	genre, content	nan
+15	389	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Adventure, France, Cultural, Literature, Historical, French Literature, European Literature ------ author(s): Alexandre Dumas	genre, content	nan
+15	519	-2-	3	genre(s): Fiction, Asian Literature, Turkish Literature, Turkish, Cultural, Classics, Literature, Historical Fiction, Historical, Novels ------ author(s): Yaşar Kemal, Edouard Roditi	genre, content	nan
+15	136	-2-	2	genre(s): Classics, Fiction, Historical Fiction, Cultural, Russia, Literature, Russian Literature, War, Novels, Historical ------ author(s): Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude, Vladimir Levstik	genre	nan
+15	492	-2-	2	genre(s): Classics, Fiction, Historical, Historical Fiction, War, Literature, Novels, American, Romance, Classic Literature ------ author(s): Ernest Hemingway	genre, content	nan
+15	522	-2-	2	genre(s): Classics, Fiction, German Literature, European Literature, Historical Fiction, War, Cultural, Germany, Literature, Novels ------ author(s): Erich Maria Remarque, Arthur Wesley Wheen	genre, content	nan
+19	897	-2-	5	genre(s): Nonfiction, Psychology, Self Help, Philosophy, Personal Development, Audiobook, Cultural, Japan, Mental Health, Health ------ author(s): Ichiro Kishimi, Fumitake Koga, Renate Graßtat, Bodo Primus, Julian Horeyseck, Chris Nonnast	genre	nan
+19	259	-2-	5	genre(s): Self Help, Nonfiction, Psychology, Philosophy, Personal Development, Productivity, Spirituality, Business, Mental Health ------ author(s): Darius Foroux	Self Help,personal Development	nan
+19	1	-2-	4	genre(s): Nonfiction, Self Help, Business, Psychology, Leadership, Personal Development, Management, Philosophy, Inspirational, Audiobook ------ author(s): Spencer Johnson, Kenneth H. Blanchard	genre	nan
+19	904	-2-	5	genre(s): Finance, Business, Nonfiction, Self Help, Personal Finance, Money, Currency, Personal Development, Economics, Classics ------ author(s): George S. Clason, Babylonian Parable	finance,Self Help	nan
+19	138	-2-	3	genre(s): Philosophy, Classics, Nonfiction, Religion, Cultural, China, History, Spirituality, Eastern Philosophy, Asia ------ author(s): Confucius, D.C. Lau	classic	nan
+19	151	-2-	4	genre(s): Philosophy, Nonfiction ------ author(s): Muhammad Iqbal	Philosophy, Non fiction	nan
+10	4	-2-	2	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, Novels, Historical Romance, Adult, Classic Literature ------ author(s): Jane Austen, Anna Quindlen	genre	romantic
+10	389	-2-	3	genre(s): Classics, Fiction, Historical Fiction, Adventure, France, Cultural, Literature, Historical, French Literature, European Literature ------ author(s): Alexandre Dumas	genre	adventure
+10	521	-2-	4	genre(s): Fiction, Classics, Short Stories, Literature, American, Africa, Cultural, 20th Century, Classic Literature, Literary Fiction ------ author(s): Ernest Hemingway	genre	literature
+10	397	-2-	2	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, 19th Century, Classic Literature, Audiobook, Novels ------ author(s): Jane Austen, Fiona Stafford	genre	classics
+10	398	-2-	2	genre(s): Classics, Fiction, Gothic, Horror, 19th Century, Humor, British Literature, European Literature, Literature, Comedy ------ author(s): Thomas Love Peacock	genre	literature
+10	152	-2-	2	genre(s): Fiction, India, Cultural, Short Stories, Classics, Indian Literature, Asian Literature, Literature, Asia, Humor ------ author(s): R.K. Narayan, Jhumpa Lahiri	author	cultural
+1	394	-2-	4	genre(s): Young Adult, Romance, Fiction, Contemporary, Realistic Fiction, Teen, Coming Of Age, Novels, Drama, Love ------ author(s): John Green	Genre	nan
+1	395	-2-	4	genre(s): Romance, Fiction, Chick Lit, Womens Fiction, Contemporary, Adult, Adult Fiction, Contemporary Romance, Love, Drama ------ author(s): Nicholas Sparks	Genre	nan
+1	146	-2-	5	genre(s): Young Adult, Fiction, Dystopia, Fantasy, Science Fiction, Romance, Adventure, Teen, Apocalyptic, Post Apocalyptic ------ author(s): Suzanne Collins	Genre	nan
+1	534	-2-	3	genre(s): Polyamorous, Reverse Harem, Paranormal Romance, Paranormal, Magic, Romance, Fantasy, Witches, Fairies, Fae ------ author(s): Jacquelyn Faye	Genre	nan
+1	324	-2-	4	genre(s): Science Fiction, Fiction, Cultural, China, Science Fiction Fantasy, Audiobook, Aliens, Fantasy, Space, Speculative Fiction ------ author(s): Liu Cixin, Joel Martinsen	Genre	nan
+1	175	-2-	4	genre(s): Fantasy, Comics, Sequential Art, Graphic Novels, Fiction, Graphic Novels Comics, Comic Book, Science Fiction Fantasy, Epic Fantasy, Adventure ------ author(s): Daniel Abraham, George R.R. Martin, Tommy Patterson	Genre	nan
+9	769	-2-	3	genre(s): Biography, History, Nonfiction ------ author(s): David S. Brown	genre	genre(s): Biography
+9	393	-2-	3	genre(s): Nonfiction, Biography, History, Politics, Memoir, Africa, Cultural, Autobiography, South Africa, Southern Africa ------ author(s): Nelson Mandela, Barack Obama	genre	nan
+9	526	-2-	4	genre(s): Nonfiction, India, Cultural, Inspirational, Indian Literature, Asian Literature, Self Help, Biography, Autobiography, Politics ------ author(s): A.P.J. Abdul Kalam	author,genre	nan
+9	399	-2-	3	genre(s): Biography, Nonfiction, Science, History, Physics, Biography Memoir, Audiobook, Autobiography, Historical, Memoir ------ author(s): Walter Isaacson	genre	nan
+9	921	-2-	2	genre(s): Nonfiction, Biography, History, Memoir, Asia, Cultural, Biography Memoir, Autobiography, Politics, True Crime ------ author(s): Kim Hyun Hee	content	negative
+9	157	-2-	4	genre(s): Biography, Nonfiction, Autobiography, India, Cultural, Indian Literature, Asian Literature, Inspirational, Memoir, Science ------ author(s): A.P.J. Abdul Kalam, Arun Tiwari	genre,author	nan
+11	644	-2-	5	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, 19th Century, British Literature, European Literature, Classic Literature ------ author(s): Jane Austen, Deidre Shauna Lynch, James Kinsley	author	nan
+11	645	-2-	4	genre(s): Plays, Classics, Drama, Fiction, School, Academic, Theatre, American, Read For School, Literature ------ author(s): Tennessee Williams	content	nan
+11	648	-2-	5	genre(s): Fiction, Magical Realism, Classics, Historical, Historical Fiction, Literature, Romance, Latin American, Cultural, Novels ------ author(s): Gabriel García Márquez	author	nan
+11	137	-2-	5	genre(s): Classics, Fiction, Short Stories, Literature, Russian Literature, Russia ------ author(s): Anton Chekhov	content	nan
+11	396	-2-	5	genre(s): Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School, Academic, Classic Literature, 19th Century ------ author(s): Charles Dickens, Richard Maxwell	author	nan
+11	344	-2-	4	genre(s): Fiction, Cultural, Japan, Japanese Literature, Classics, Literature, Novels, Asian Literature, Asia, 20th Century ------ author(s): Osamu Dazai, Donald Keene	content	nan
+7	514	-2-	4	genre(s): Fiction, Historical, Historical Fiction, Albanian Literature, Literature, Novels, Classics, War, 20th Century, European Literature ------ author(s): Ismail Kadare	genre	nan
+7	644	-2-	5	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, 19th Century, British Literature, European Literature, Classic Literature ------ author(s): Jane Austen, Deidre Shauna Lynch, James Kinsley	genre, author	nan
+7	389	-2-	5	genre(s): Classics, Fiction, Historical Fiction, Adventure, France, Cultural, Literature, Historical, French Literature, European Literature ------ author(s): Alexandre Dumas	genre	nan
+7	519	-2-	4	genre(s): Fiction, Asian Literature, Turkish Literature, Turkish, Cultural, Classics, Literature, Historical Fiction, Historical, Novels ------ author(s): Yaşar Kemal, Edouard Roditi	genre	nan
+7	648	-2-	5	genre(s): Fiction, Magical Realism, Classics, Historical, Historical Fiction, Literature, Romance, Latin American, Cultural, Novels ------ author(s): Gabriel García Márquez	genre, author	nan
+7	521	-2-	3	genre(s): Fiction, Classics, Short Stories, Literature, American, Africa, Cultural, 20th Century, Classic Literature, Literary Fiction ------ author(s): Ernest Hemingway	genre, author	nan
+3	257	-2-	3	genre(s): Philosophy, Nonfiction, Religion, Classics, Spirituality, Poetry, China, Cultural, Taoism, Self Help ------ author(s): Lao Tzu, Gia-Fu Feng, Jane English, Toinette Lippe, Jacob Needleman	genre	nan
+3	897	-2-	3	genre(s): Nonfiction, Psychology, Self Help, Philosophy, Personal Development, Audiobook, Cultural, Japan, Mental Health, Health ------ author(s): Ichiro Kishimi, Fumitake Koga, Renate Graßtat, Bodo Primus, Julian Horeyseck, Chris Nonnast	genre	nan
+3	904	-2-	1	genre(s): Finance, Business, Nonfiction, Self Help, Personal Finance, Money, Currency, Personal Development, Economics, Classics ------ author(s): George S. Clason, Babylonian Parable	genre	nan
+3	791	-2-	3	genre(s): Business, Self Help, Nonfiction, Personal Development, Classics, Philosophy, Inspirational, Economics, Finance, Leadership ------ author(s): Russell H. Conwell	genre	nan
+3	664	-2-	1	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey	content	nan
+3	668	-2-	3	genre(s): Self Help, Nonfiction, Spirituality, Philosophy, Psychology, Personal Development, Audiobook, Religion, Inspirational, Unfinished ------ author(s): Eckhart Tolle	genre	nan
+2	640	-2-	3	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Historical, Childrens Classics, American, Literature ------ author(s): Eleanor H. Porter, Viltaras Alksnėnas	genre	nan
+2	388	-2-	4	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Childrens, Literature, Pirates, Fantasy ------ author(s): Robert Louis Stevenson, David W. Whitehead, Richard S. Hartmetz	author	nan
+2	534	-2-	4	genre(s): Polyamorous, Reverse Harem, Paranormal Romance, Paranormal, Magic, Romance, Fantasy, Witches, Fairies, Fae ------ author(s): Jacquelyn Faye	content	nan
+2	263	-2-	5	genre(s): Classics, Fiction, Historical Fiction, Young Adult, Romance, Historical, Literature, Childrens, Classic Literature, Novels ------ author(s): Louisa May Alcott	genre	nan
+2	264	-2-	4	genre(s): Mystery, Classics, Fiction, Crime, Thriller, Mystery Thriller, Audiobook, Adult, Suspense, Novels ------ author(s): Agatha Christie	genre	nan
+2	14	-2-	3	genre(s): Paranormal, Young Adult, Romance, Paranormal Romance, Fantasy, Supernatural, Teen, Love, Young Adult Fantasy, Contemporary ------ author(s): Shelly Crane	content	nan
+8	641	-2-	3	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	Content	nan
+8	642	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Fairy Tales, Literature ------ author(s): J.M. Barrie, Michael Hague	Genre	nan
+8	653	-2-	4	genre(s): Picture Books, Childrens, Christmas, Fiction, Fantasy, Classics, Holiday, Adventure, Kids, Juvenile ------ author(s): Chris Van Allsburg, Liam Neeson	Genre	nan
+8	934	-2-	4	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Audiobook ------ author(s): Jenny Nimmo	Genre	nan
+8	936	-2-	2	genre(s): Fantasy, Young Adult, Fiction, Romance, Magic, Middle Grade, Childrens, Adventure, Classics, Young Adult Fantasy ------ author(s): Diana Wynne Jones	Content	nan
+8	942	-2-	4	genre(s): Fantasy, Fiction, Childrens, Classics, German Literature, European Literature, Young Adult, Novels, Middle Grade, Literature ------ author(s): Michael Ende	Genre	nan
+20	641	-2-	2	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	genre	nan
+20	527	-2-	3	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Juvenile ------ author(s): Enid Blyton	genre	nan
+20	528	-2-	2	genre(s): Childrens, Adventure, Fiction, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Novels ------ author(s): Enid Blyton	genre	nan
+20	529	-2-	3	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, Novels, European Literature, British Literature ------ author(s): Enid Blyton	genre	nan
+20	928	-2-	4	genre(s): Fantasy, Young Adult, Childrens, Middle Grade, Fiction, Magic, Adventure, Mystery, Juvenile, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+20	929	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Fiction, Middle Grade, Magic, Adventure, Mystery, Juvenile, Time Travel ------ author(s): Jenny Nimmo	genre	nan
+18	728	-2-	3	genre(s): Mystery, Fiction, Thriller, Historical, Mystery Thriller, Historical Fiction, Suspense, Crime, Horror, True Crime ------ author(s): Jess Lourey	genre	nan
+18	550	-2-	4	genre(s): Mystery, Crime, Detective, India, Cultural, Short Stories, Classics, Fiction, Indian Literature, Asian Literature ------ author(s): Sharadindu Bandyopadhyay, Monimala Dhar	genre, literature	nan
+18	45	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Romance, Novels, Crime, Drama, Adult ------ author(s): Sidney Sheldon	genre	nan
+18	349	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Literature, France, Cultural, Historical, Novels, French Literature, European Literature ------ author(s): Victor Hugo, Lee Fahnestock, Norman MacAfee	genre, classis, literature	nan
+18	320	-2-	4	genre(s): Classics, Fiction, Cultural, Russia, Romance, Historical Fiction, Historical, Literature, Russian Literature, Novels ------ author(s): Leo Tolstoy, Aylmer Maude, Lev Tolstoi, Louise Maude, George Gibian	genre, classic, literature, author	nan
+18	68	-2-	1	genre(s): Classics, Fiction, Historical Fiction, School, Academic, Literature, High School, Young Adult, Read For School, Historical ------ author(s): Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym	literature, high school	nan
+4	937	-2-	2	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Magic, Young Adult Fantasy, Adventure, Science Fiction Fantasy, Witches ------ author(s): Diana Wynne Jones	Author	nan
+4	426	-2-	4	genre(s): Mystery, Fiction, Thriller, Suspense, Mystery Thriller, Contemporary, Business, Amazon, Adult Fiction, Crime ------ author(s): Katie Sise	genre	nan
+4	427	-2-	4	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Suspense, Adult, Contemporary, Adult Fiction, Crime ------ author(s): Ruth Ware	genre	nan
+4	563	-2-	2	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Urban Fantasy, Greek Mythology, Magic ------ author(s): Rick Riordan	Author	nan
+4	59	-2-	1	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Adult, Adult Fiction, Novels ------ author(s): Stieg Larsson, Reg Keeland	content	nan
+4	64	-2-	3	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Cultural, Sweden, Adult ------ author(s): Stieg Larsson, Reg Keeland	genre	nan
+24	527	-2-	4	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Juvenile ------ author(s): Enid Blyton	genre	nan
+24	528	-2-	4	genre(s): Childrens, Adventure, Fiction, Mystery, Classics, Young Adult, Middle Grade, European Literature, British Literature, Novels ------ author(s): Enid Blyton	genre, content	nan
+24	529	-2-	4	genre(s): Childrens, Fiction, Adventure, Mystery, Classics, Young Adult, Middle Grade, Novels, European Literature, British Literature ------ author(s): Enid Blyton	genre	nan
+24	936	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Romance, Magic, Middle Grade, Childrens, Adventure, Classics, Young Adult Fantasy ------ author(s): Diana Wynne Jones	genre, author	nan
+24	92	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	genre, author, content	nan
+24	170	-2-	5	genre(s): Fantasy, Fiction, Classics, Books About Books, Writing, Literature, Science Fiction Fantasy, Adventure, High Fantasy, Magic ------ author(s): John D. Rateliff, J.R.R. Tolkien	genre, author	nan
+17	30	-2-	5	genre(s): Thriller, Fiction, Mystery, Science Fiction, Suspense, Crime, Mystery Thriller, Horror, Medical, Space ------ author(s): Tess Gerritsen	author	nan
+17	31	-2-	2	genre(s): Romance, New Adult, Contemporary, Contemporary Romance, Adult, Audiobook, Fiction, Drama, Sociology, Abuse ------ author(s): Brittainy C. Cherry	author	nan
+17	419	-2-	4	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Suspense, Audiobook, Adult, Crime, Adult Fiction, Contemporary ------ author(s): Ruth Ware	genre	nan
+17	36	-2-	3	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Crime, Psychological Thriller, Adult, Adult Fiction ------ author(s): A.J. Finn	author	nan
+17	426	-2-	4	genre(s): Mystery, Fiction, Thriller, Suspense, Mystery Thriller, Contemporary, Business, Amazon, Adult Fiction, Crime ------ author(s): Katie Sise	genre	nan
+17	59	-2-	5	genre(s): Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary, Adult, Adult Fiction, Novels ------ author(s): Stieg Larsson, Reg Keeland	author	nan
+21	856	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook, Middle Grade, Magic, Literature ------ author(s): L. Frank Baum, W.W. Denslow	genre	Classics, fantasy, fiction
+21	384	-2-	4	genre(s): Childrens, Picture Books, Fiction, Classics, Fairy Tales, Fantasy, Media Tie In, Adventure, Princesses, Kids ------ author(s): Walt Disney Company	genre, author	nan
+21	495	-2-	3	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Literature, Childrens, School, Academic ------ author(s): Mark Twain, Guy Cardwell, John Seelye	genre	nan
+21	926	-2-	4	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Literature, Fantasy, Historical, Audiobook ------ author(s): Frances Hodgson Burnett	genre	nan
+21	167	-2-	4	genre(s): Fantasy, Fiction, Young Adult, Plays, Magic, Adventure, Drama, Science Fiction, Time Travel, Childrens ------ author(s): John Tiffany, Jack Thorne, J.K. Rowling	genre, author	nan
+21	942	-2-	4	genre(s): Fantasy, Fiction, Childrens, Classics, German Literature, European Literature, Young Adult, Novels, Middle Grade, Literature ------ author(s): Michael Ende	genre	nan
+12	143	-2-	3	genre(s): Fiction, Sports, Football, Historical Fiction, Soccer, Novels, Contemporary, British Literature, European Literature, Literature ------ author(s): David Peace	genre and content	nan
+12	516	-2-	4	genre(s): Fiction, Literature, Contemporary, Turkish, Novels, Cultural, Asian Literature, Turkish Literature, Nobel Prize, Historical Fiction ------ author(s): Orhan Pamuk, Maureen Freely	genre and content	nan
+12	389	-2-	3	genre(s): Classics, Fiction, Historical Fiction, Adventure, France, Cultural, Literature, Historical, French Literature, European Literature ------ author(s): Alexandre Dumas	genre	nan
+12	191	-2-	5	genre(s): Fiction, Historical Fiction, War, Audiobook, Contemporary, Literary Fiction, Historical, Book Club, Novels, Adult Fiction ------ author(s): Christy Lefteri	genre and content	amazinngly heart touching
+12	320	-2-	3	genre(s): Classics, Fiction, Cultural, Russia, Romance, Historical Fiction, Historical, Literature, Russian Literature, Novels ------ author(s): Leo Tolstoy, Aylmer Maude, Lev Tolstoi, Louise Maude, George Gibian	genre	nan
+12	331	-2-	3	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez	genre	nan
+16	798	-2-	2	genre(s): Business, Nonfiction, Entrepreneurship, Buisness, Money, Currency, Finance, Economics, Science, Technology ------ author(s): Russell Brunson, Dan S. Kennedy	content	nan
+16	165	-2-	4	genre(s): Nonfiction, History, Science, Philosophy, Audiobook, Anthropology, Sociology, Politics, Technology, Psychology ------ author(s): Yuval Noah Harari	author	nan
+16	166	-2-	3	genre(s): Science, Nonfiction, Physics, Philosophy, Popular Science, Astronomy, Audiobook, Religion, History, Space ------ author(s): Stephen Hawking, Leonard Mlodinow	genre	nan
+16	938	-2-	1	genre(s): Art, Drawing, Nonfiction, Reference, Art Design, Design, How To, Crafts, Visual Art, Science ------ author(s): Kimon Nicolaides, Mamie Harmon	genre	nan
+16	1010	-2-	3	genre(s): Nonfiction, Self Help, Psychology, Personal Development, Audiobook, Leadership, Parenting, Business, Relationships, Spirituality ------ author(s): Brené Brown	genre	nan
+16	818	-2-	1	genre(s): Business, Nonfiction, Social Media, Google, Social Science, Science, Technology, Web, Internet, Technical ------ author(s): Perry Marshall, Bryan Todd	genre	nan
+25	665	-2-	4	genre(s): Science, Nonfiction, Physics, Astronomy, Audiobook, Philosophy, Space, Popular Science, History, Classics ------ author(s): Stephen Hawking	genre	nan
+25	794	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Productivity, Business, Psychology, Audiobook, Health, Inspirational, Leadership ------ author(s): Hal Elrod	genre	nan
+25	672	-2-	4	genre(s): Nonfiction, Self Help, Business, Productivity, Psychology, Personal Development, Audiobook, Leadership, Management, Writing ------ author(s): Cal Newport	genre	nan
+25	289	-2-	4	genre(s): Nonfiction, Politics, Economics, Philosophy, History, Business, Sociology, Society, Culture, Science ------ author(s): Paul  Mason	genre	nan
+25	674	-2-	4	genre(s): Business, Self Help, Nonfiction, Economics, Finance, Personal Development, Psychology, Money, Currency, Personal Finance ------ author(s): Napoleon Hill, Ben Holden-Crowther	genre	nan
+25	676	-2-	4	genre(s): Self Help, Business, Nonfiction, Personal Development, Psychology, Leadership, Productivity, Entrepreneurship, Inspirational, Audiobook ------ author(s): David J. Schwartz	genre	nan
+22	164	-2-	4	genre(s): Science, Nonfiction, Physics, History, Astronomy, Philosophy, Classics, Popular Science, Space, Audiobook ------ author(s): Stephen Hawking	genre, auhtor	nan
+22	165	-2-	4	genre(s): Nonfiction, History, Science, Philosophy, Audiobook, Anthropology, Sociology, Politics, Technology, Psychology ------ author(s): Yuval Noah Harari	author	nan
+22	166	-2-	5	genre(s): Science, Nonfiction, Physics, Philosophy, Popular Science, Astronomy, Audiobook, Religion, History, Space ------ author(s): Stephen Hawking, Leonard Mlodinow	author, genre	nan
+22	301	-2-	2	genre(s): Philosophy, History, Nonfiction, Ancient ------ author(s): W.K.C. Guthrie	author, genre	nan
+22	440	-2-	1	genre(s): Nonfiction, Business, Productivity, Self Help, Personal Development, Management, Leadership, Psychology, Reference, Audiobook ------ author(s): David    Allen	author, genre, content	leadership
+22	953	-2-	1	genre(s): Esoterica, Astrology, Reference, Nonfiction, New Age, Self Help, Spirituality, Occult, Psychology, Divination ------ author(s): Gary Goldschneider, Joost Elffers, Aron Goldschneider	content, author	astrology
+13	931	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Middle Grade, Fiction, Magic, Adventure, Juvenile, Mystery, Young Adult Fantasy ------ author(s): Jenny Nimmo	genre	nan
+13	932	-2-	4	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Mystery ------ author(s): Jenny Nimmo	genre	nan
+13	933	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Magic, Childrens, Adventure, Juvenile, Young Adult Fantasy, Mystery ------ author(s): Jenny Nimmo	genre	nan
+13	934	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+13	935	-2-	4	genre(s): Fantasy, Young Adult, Middle Grade, Magic, Childrens, Fiction, Adventure, Juvenile, Mystery, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+13	936	-2-	3	genre(s): Fantasy, Young Adult, Fiction, Romance, Magic, Middle Grade, Childrens, Adventure, Classics, Young Adult Fantasy ------ author(s): Diana Wynne Jones	author	nan
+23	89	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Middle Grade, Adventure, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre: Children, Fantasy, Adventure	nan
+23	563	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Urban Fantasy, Greek Mythology, Magic ------ author(s): Rick Riordan	genre: Children, Adventure, Fantasy	nan
+23	567	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Young Adult Fantasy ------ author(s): Rick Riordan	genre: Children, Adventure, Fantasy	nan
+23	568	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology, Urban Fantasy, Childrens, Young Adult Fantasy ------ author(s): Rick Riordan	genre: Children, Adventure, Fantasy	nan
+23	975	-2-	4	genre(s): Classics, Childrens, Fiction, Young Adult, Middle Grade, Fantasy, Humor, Adventure, Juvenile, Swedish Literature ------ author(s): Astrid Lindgren, Florence Lamborn, Louis S. Glanzman	genre: Cildren, Classics, Humor, Adventure	nan
+23	976	-2-	4	genre(s): Fantasy, Childrens, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Audiobook, Juvenile ------ author(s): Roald Dahl, Quentin Blake	genre: Children, Fantasy, Classics, Humor	nan
+14	410	-2-	4	genre(s): Business, Nonfiction, Self Help, Productivity, Personal Development, Entrepreneurship, Finance, Economics, Audiobook, Psychology ------ author(s): Timothy Ferriss	author,content,genre	nan
+14	672	-2-	3	genre(s): Nonfiction, Self Help, Business, Productivity, Psychology, Personal Development, Audiobook, Leadership, Management, Writing ------ author(s): Cal Newport	genre	nan
+14	289	-2-	4	genre(s): Nonfiction, Politics, Economics, Philosophy, History, Business, Sociology, Society, Culture, Science ------ author(s): Paul  Mason	content	capitalism ,economic cycles
+14	805	-2-	3	genre(s): Business, Nonfiction, Productivity, Buisness, Economics, Self Help, Finance, Audiobook, Entrepreneurship, Personal Development ------ author(s): Perry Marshall	genre	nan
+14	806	-2-	3	author(s): T. Harv Eker	content	Business,non-fiction,motivational content
+14	295	-2-	1	genre(s): India, Cultural, War, China, Nonfiction, Academic, Politics ------ author(s): Pravin Sawhney, Ghazala Wahab	content	did not like content
+5	911	-2-	4	genre(s): Self Help, Nonfiction, Spirituality, Health, Psychology, Personal Development, Inspirational, New Age, Philosophy, Reference ------ author(s): Louise L. Hay	genre	nan
+5	786	-2-	3	genre(s): Spirituality, Nonfiction, Self Help, Philosophy, Personal Development ------ author(s): Kamlesh D. Patel, Joshua  Pollock, Varun Soni	genre	nan
+5	787	-2-	3	genre(s): Spirituality, Nonfiction, Philosophy ------ author(s): Kamlesh D. Patel	genre	nan
+5	150	-2-	5	genre(s): Religion ------ author(s): Allama Muhammad Iqbal	genre	nan
+5	663	-2-	5	genre(s): Islam, Nonfiction, Self Help, Religion, Spirituality, Psychology, Inspirational, Philosophy, Personal Development, Faith ------ author(s): Yasmin Mogahed	genre	nan
+5	664	-2-	4	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey	genre	nan
+6	26	-2-	4	genre(s): Fiction, Classics, Fantasy, Philosophy, Novels, Spirituality, Literature, Self Help, Inspirational, Adventure ------ author(s): Paulo Coelho, Alan R. Clarke, James Noel Smith	genre,author	nan
+6	794	-2-	1	genre(s): Self Help, Nonfiction, Personal Development, Productivity, Business, Psychology, Audiobook, Health, Inspirational, Leadership ------ author(s): Hal Elrod	genre	nan
+6	672	-2-	3	genre(s): Nonfiction, Self Help, Business, Productivity, Psychology, Personal Development, Audiobook, Leadership, Management, Writing ------ author(s): Cal Newport	content	nan
+6	166	-2-	4	genre(s): Science, Nonfiction, Physics, Philosophy, Popular Science, Astronomy, Audiobook, Religion, History, Space ------ author(s): Stephen Hawking, Leonard Mlodinow	genre,author	nan
+6	626	-2-	3	genre(s): Nonfiction, History, Philosophy, Science, Politics, Audiobook, Psychology, Sociology, Society, Culture ------ author(s): Yuval Noah Harari	genre,author	nan
+6	883	-2-	3	genre(s): Nonfiction, Science, Philosophy, History, Psychology, Politics, Sociology, Economics, Audiobook, Society ------ author(s): Steven Pinker	genre	nan
+15	267	-2-	4	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, Walter J. Cobb	genre, content	nan
+15	396	-2-	2	genre(s): Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School, Academic, Classic Literature, 19th Century ------ author(s): Charles Dickens, Richard Maxwell	genre	historical
+15	540	-2-	3	genre(s): Fiction, India, Cultural, Historical Fiction, Classics, Indian Literature, Asian Literature, Pakistan, Historical, Novels ------ author(s): Khushwant Singh, راتب جبر	genre	nan
+15	546	-2-	3	genre(s): Classics, Fiction, India, Cultural, Historical Fiction, Literature, Novels, British Literature, European Literature, 20th Century ------ author(s): E.M. Forster, Oliver Stallybrass, Pankaj Mishra	genre	nan
+15	949	-2-	3	genre(s): Classics, Fiction, Childrens, France, Cultural, French Literature, European Literature, Literature, Novels, Adventure ------ author(s): Hector Malot, Florence Crewe-Jones, افسون مهدویان, حسین بکائی	genre	nan
+15	328	-2-	3	genre(s): Classics, Fiction, Cultural, China, Literature, Asia, Historical Fiction, Historical, Chinese Literature, Romance ------ author(s): Cao Xueqin, Chi-chen Wang, Mark Van Doren	genre	nan
+19	283	-2-	1	genre(s): Philosophy, Politics, History, Nonfiction, Cultural, Political Science, Russia, Economics, Religion, 20th Century ------ author(s): Bertrand Russell	content	nan
+19	668	-2-	5	genre(s): Self Help, Nonfiction, Spirituality, Philosophy, Psychology, Personal Development, Audiobook, Religion, Inspirational, Unfinished ------ author(s): Eckhart Tolle	Genre	nan
+19	669	-2-	5	genre(s): Philosophy, Nonfiction, Classics, History, Self Help, Psychology, Personal Development, Spirituality, Leadership, Literature ------ author(s): Marcus Aurelius, Martin Hammond, Albert Wittstock, Simone Mooij-Valk, Diskin Clay	Genre,Content	nan
+19	927	-2-	2	genre(s): Psychology, Philosophy, Nonfiction, Sociology, Politics, History, Classics, Psychoanalysis, German Literature, European Literature ------ author(s): Erich Fromm	content,genre	nan
+19	163	-2-	3	genre(s): Philosophy, Nonfiction ------ author(s): Roberta Sparrow	content	nan
+19	676	-2-	5	genre(s): Self Help, Business, Nonfiction, Personal Development, Psychology, Leadership, Productivity, Entrepreneurship, Inspirational, Audiobook ------ author(s): David J. Schwartz	self help,genre	nan
+10	33	-2-	4	genre(s): Mystery, Fiction, Crime, Classics, Mystery Thriller, Detective, British Literature, European Literature, Murder Mystery, Audiobook ------ author(s): Agatha Christie	genre	Mystery
+10	550	-2-	3	genre(s): Mystery, Crime, Detective, India, Cultural, Short Stories, Classics, Fiction, Indian Literature, Asian Literature ------ author(s): Sharadindu Bandyopadhyay, Monimala Dhar	author	Mystery
+10	45	-2-	2	genre(s): Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Romance, Novels, Crime, Drama, Adult ------ author(s): Sidney Sheldon	content	Thriller
+10	201	-2-	4	genre(s): Fiction, Mystery, Thriller, Crime, Suspense, Legal Thriller, Mystery Thriller, Drama, Novels, Law ------ author(s): John Grisham	genre	Fiction
+10	572	-2-	4	genre(s): Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Adventure, Crime, Novels, Science Fiction, Action ------ author(s): Dan Brown	author	Suspense
+10	190	-2-	3	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Crime, Suspense, Legal Thriller, Novels, Contemporary, Drama ------ author(s): Victor Methos	content	Thriller
+1	69	-2-	4	genre(s): Young Adult, Fantasy, Romance, Vampires, Fiction, Paranormal, Paranormal Romance, Supernatural, Teen, Urban Fantasy ------ author(s): Stephenie Meyer	Genre,Author	nan
+1	325	-2-	3	genre(s): Science Fiction, Fiction, Cultural, China, Science Fiction Fantasy, Audiobook, Fantasy, Aliens, Novels, Speculative Fiction ------ author(s): Liu Cixin, Ken Liu	Genre,Author	nan
+1	174	-2-	4	genre(s): Fantasy, Fiction, Science Fiction Fantasy, Adventure, Novels, Dragons, Science Fiction, Epic Fantasy, Epic, Adult ------ author(s): George R.R. Martin	Genre,Author	nan
+1	559	-2-	3	genre(s): Fiction, Indian Literature, Asian Literature, India, Cultural, Romance, Novels, Contemporary, Drama, Young Adult ------ author(s): Chetan Bhagat	Genre,Author	nan
+1	313	-2-	4	genre(s): Science Fiction, Fiction, Cultural, China, Science Fiction Fantasy, Audiobook, Fantasy, Space, Aliens, Space Opera ------ author(s): Liu Cixin, Ken Liu	Genre,Author	nan
+1	58	-2-	4	genre(s): Fantasy, Young Adult, Romance, Paranormal, Vampires, Fiction, Audiobook, Paranormal Romance, Supernatural, Urban Fantasy ------ author(s): Stephenie Meyer	Genre	nan
+9	673	-2-	4	genre(s): Business, Biography, Nonfiction, Memoir, Sports, Audiobook, Autobiography, Entrepreneurship, Biography Memoir, Leadership ------ author(s): Phil Knight	author	content,author
+9	603	-2-	3	genre(s): Business, Nonfiction, Management, Leadership, Biography, Entrepreneurship, Cultural, Science, Technology, Buisness ------ author(s): Reed Hastings, Erin Meyer	genre,content	nan
+9	293	-2-	4	genre(s): Science, Nonfiction, Biography, Physics, Memoir, Autobiography, Humor, History, Biography Memoir, Audiobook ------ author(s): Richard P. Feynman	content	nan
+9	680	-2-	3	genre(s): Business, Entrepreneurship, Nonfiction, Science, Technology, Biography, Management, Programming, Computer Science, History ------ author(s): Jessica Livingston	content	Entrepreneurship
+9	686	-2-	1	genre(s): Biography, Nonfiction, Sports, Autobiography, Memoir, Biography Memoir, Religion, Islam, Cultural, African American ------ author(s): Muhammad Ali	content	nan
+9	649	-2-	1	genre(s): Nonfiction, Memoir, Psychology, Mental Health, Health, Mental Illness, Biography, Biography Memoir, Autobiography, Classics ------ author(s): Susanna Kaysen	content	nan
+11	152	-2-	2	genre(s): Fiction, India, Cultural, Short Stories, Classics, Indian Literature, Asian Literature, Literature, Asia, Humor ------ author(s): R.K. Narayan, Jhumpa Lahiri	content	nan
+11	540	-2-	2	genre(s): Fiction, India, Cultural, Historical Fiction, Classics, Indian Literature, Asian Literature, Pakistan, Historical, Novels ------ author(s): Khushwant Singh, راتب جبر	genre	nan
+11	161	-2-	1	genre(s): Poetry, Classics, Fiction ------ author(s): William Ernest Henley	genre	I dont like poems
+11	546	-2-	3	genre(s): Classics, Fiction, India, Cultural, Historical Fiction, Literature, Novels, British Literature, European Literature, 20th Century ------ author(s): E.M. Forster, Oliver Stallybrass, Pankaj Mishra	content	nan
+11	810	-2-	5	author(s): Charles Dickens	author	nan
+11	221	-2-	5	genre(s): Classics, Fiction, Literature, Novels, American, School, Academic, Adventure, Classic Literature, Literary Fiction ------ author(s): Ernest Hemingway	author	nan
+7	522	-2-	5	genre(s): Classics, Fiction, German Literature, European Literature, Historical Fiction, War, Cultural, Germany, Literature, Novels ------ author(s): Erich Maria Remarque, Arthur Wesley Wheen	genre	nan
+7	267	-2-	5	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, Walter J. Cobb	genre	nan
+7	396	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School, Academic, Classic Literature, 19th Century ------ author(s): Charles Dickens, Richard Maxwell	genre	nan
+7	5	-2-	4	genre(s): Classics, Fiction, Literature, Novels, Cultural, Russia, Romance, Russian Literature, Literary Fiction, 20th Century ------ author(s): Vladimir Nabokov, Craig Raine	genre	nan
+7	540	-2-	3	genre(s): Fiction, India, Cultural, Historical Fiction, Classics, Indian Literature, Asian Literature, Pakistan, Historical, Novels ------ author(s): Khushwant Singh, راتب جبر	genre	nan
+7	645	-2-	4	genre(s): Plays, Classics, Drama, Fiction, School, Academic, Theatre, American, Read For School, Literature ------ author(s): Tennessee Williams	genre	nan
+3	669	-2-	3	genre(s): Philosophy, Nonfiction, Classics, History, Self Help, Psychology, Personal Development, Spirituality, Leadership, Literature ------ author(s): Marcus Aurelius, Martin Hammond, Albert Wittstock, Simone Mooij-Valk, Diskin Clay	author	nan
+3	287	-2-	3	genre(s): Philosophy, Islam, History, Religion ------ author(s): Majid Fakhry	genre	nan
+3	674	-2-	1	genre(s): Business, Self Help, Nonfiction, Economics, Finance, Personal Development, Psychology, Money, Currency, Personal Finance ------ author(s): Napoleon Hill, Ben Holden-Crowther	genre	nan
+3	803	-2-	1	genre(s): Business, Nonfiction, Self Help, Personal Development, Psychology, Leadership, Productivity, Entrepreneurship, Buisness, Philosophy ------ author(s): Seth Godin	genre	nan
+3	677	-2-	1	genre(s): Self Help, Nonfiction, Psychology, Personal Development, Business, Philosophy, Audiobook, Leadership, Inspirational, Health ------ author(s): Dale Carnegie	genre	nan
+3	678	-2-	1	genre(s): Self Help, Nonfiction, Philosophy, Personal Development, Psychology, Classics, Spirituality, Business, Inspirational, Leadership ------ author(s): James Allen	genre	nan
+2	22	-2-	4	genre(s): Young Adult, Romance, Fantasy, Paranormal, Aliens, Science Fiction, Paranormal Romance, Urban Fantasy, Fiction, Supernatural ------ author(s): Jennifer L. Armentrout	genre	nan
+2	27	-2-	4	genre(s): Paranormal, Angels, Fantasy, Young Adult, Romance, Paranormal Romance, New Adult, Supernatural, Academic, College ------ author(s): Amy A. Bartol	author	nan
+2	28	-2-	5	genre(s): Fantasy, Dragons, Romance, Young Adult, Magic, Paranormal, Shapeshifters, Fiction, Supernatural, New Adult ------ author(s): Adrienne Woods	content	nan
+2	29	-2-	4	genre(s): Dragons, Fantasy, Young Adult, Romance, Magic, Paranormal, Shapeshifters, School Stories, Boarding School, Supernatural ------ author(s): Adrienne Woods	genre	nan
+2	926	-2-	3	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Literature, Fantasy, Historical, Audiobook ------ author(s): Frances Hodgson Burnett	genre	nan
+2	550	-2-	2	genre(s): Mystery, Crime, Detective, India, Cultural, Short Stories, Classics, Fiction, Indian Literature, Asian Literature ------ author(s): Sharadindu Bandyopadhyay, Monimala Dhar	content	nan
+8	943	-2-	2	genre(s): Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Adventure, Literature, Middle Grade, Audiobook ------ author(s): Kenneth Grahame, Gillian Avery	Genre	nan
+8	563	-2-	4	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Urban Fantasy, Greek Mythology, Magic ------ author(s): Rick Riordan	Genre	nan
+8	564	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Magic ------ author(s): Rick Riordan	Author	nan
+8	567	-2-	1	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Young Adult Fantasy ------ author(s): Rick Riordan	Content	nan
+8	568	-2-	1	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology, Urban Fantasy, Childrens, Young Adult Fantasy ------ author(s): Rick Riordan	Content	nan
+8	954	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Fairy Tales, Short Stories, Literature, Folklore, Mythology, Young Adult ------ author(s): Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter	Genre	nan
+20	930	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Fiction, Middle Grade, Magic, Adventure, Juvenile, Mystery, Young Adult Fantasy ------ author(s): Jenny Nimmo	genre	nan
+20	931	-2-	3	genre(s): Fantasy, Young Adult, Childrens, Middle Grade, Fiction, Magic, Adventure, Juvenile, Mystery, Young Adult Fantasy ------ author(s): Jenny Nimmo	genre	nan
+20	932	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Mystery ------ author(s): Jenny Nimmo	genre	nan
+20	933	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Magic, Childrens, Adventure, Juvenile, Young Adult Fantasy, Mystery ------ author(s): Jenny Nimmo	genre	nan
+20	934	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Fiction, Childrens, Magic, Adventure, Juvenile, Young Adult Fantasy, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+20	935	-2-	3	genre(s): Fantasy, Young Adult, Middle Grade, Magic, Childrens, Fiction, Adventure, Juvenile, Mystery, Audiobook ------ author(s): Jenny Nimmo	genre	nan
+18	328	-2-	4	genre(s): Classics, Fiction, Cultural, China, Literature, Asia, Historical Fiction, Historical, Chinese Literature, Romance ------ author(s): Cao Xueqin, Chi-chen Wang, Mark Van Doren	genre, classic, literature	nan
+18	201	-2-	5	genre(s): Fiction, Mystery, Thriller, Crime, Suspense, Legal Thriller, Mystery Thriller, Drama, Novels, Law ------ author(s): John Grisham	genre, mystery, legal thriller, suspense	nan
+18	203	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Crime, Mystery Thriller, Legal Thriller, Novels, Drama, Law ------ author(s): John Grisham, Robin Waterfield	genre, fiction, thriller, crime	nan
+18	204	-2-	5	genre(s): Fiction, Thriller, Mystery, Suspense, Spy Thriller, Espionage, Adventure, Action, Mystery Thriller, Crime ------ author(s): Robert Ludlum	genre	nan
+18	205	-2-	4	genre(s): Fiction, Thriller, Mystery, Suspense, Military Fiction, Espionage, Spy Thriller, Adventure, Action, War ------ author(s): Tom Clancy	Mystery, Suspense, Military Fiction, Espionage, Spy Thriller, Adventure, Action	nan
+18	334	-2-	5	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, John Sturrock	genre, classics, literature, european literature, gothic	nan
+4	993	-2-	3	genre(s): Horror, Fiction, Thriller, Crime, Mystery, Suspense, Mystery Thriller, Novels, Drama, Psychological Thriller ------ author(s): Thomas  Harris	content	nan
+4	716	-2-	5	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Adult, Suspense, Contemporary, Crime, Adult Fiction ------ author(s): Lucy Foley	content	nan
+4	719	-2-	4	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Contemporary, Horror, Audiobook, Adult, Suspense, Adult Fiction ------ author(s): Alyssa Cole	author	nan
+4	976	-2-	1	genre(s): Fantasy, Childrens, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Audiobook, Juvenile ------ author(s): Roald Dahl, Quentin Blake	content	nan
+4	721	-2-	4	genre(s): Mystery, Fiction, Mystery Thriller, Thriller, Cultural, Ireland, Crime, Audiobook, Adult, Contemporary ------ author(s): Tana French	genre	nan
+4	722	-2-	4	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Crime, Suspense, Audiobook, Adult, Contemporary, Adult Fiction ------ author(s): Harlan Coben	content	nan
+24	263	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Young Adult, Romance, Historical, Literature, Childrens, Classic Literature, Novels ------ author(s): Louisa May Alcott	genre	nan
+24	941	-2-	3	genre(s): Classics, Fiction, Childrens, Young Adult, Childrens Classics, Historical, Historical Fiction ------ author(s): Malvina G. Vogel, Alexandre Dumas	genre	nan
+24	942	-2-	3	genre(s): Fantasy, Fiction, Childrens, Classics, German Literature, European Literature, Young Adult, Novels, Middle Grade, Literature ------ author(s): Michael Ende	genre	nan
+24	943	-2-	4	genre(s): Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Adventure, Literature, Middle Grade, Audiobook ------ author(s): Kenneth Grahame, Gillian Avery	content	nan
+24	948	-2-	4	genre(s): Fiction, Childrens, Classics, Fantasy, Animals, Novels, Young Adult, Contemporary, Latin American Literature, Literature ------ author(s): Luis Sepúlveda, Chris Sheban, Margaret Sayers Peden	content	nan
+24	949	-2-	5	genre(s): Classics, Fiction, Childrens, France, Cultural, French Literature, European Literature, Literature, Novels, Adventure ------ author(s): Hector Malot, Florence Crewe-Jones, افسون مهدویان, حسین بکائی	author, genre	nan
+17	191	-2-	4	genre(s): Fiction, Historical Fiction, War, Audiobook, Contemporary, Literary Fiction, Historical, Book Club, Novels, Adult Fiction ------ author(s): Christy Lefteri	author	nan
+17	960	-2-	4	genre(s): Sequential Art, Manga, Comics, Graphic Novels, Horror, Mystery, Thriller, Fiction, Crime, Seinen ------ author(s): Naoki Urasawa, Satch Watanabe	genre	nan
+17	193	-2-	2	genre(s): Thriller, Fiction, Mystery, Crime, Suspense, Mystery Thriller, Psychological Thriller, Audiobook, Contemporary, Adult ------ author(s): Harriet Tyce	author	nan
+17	194	-2-	4	genre(s): Thriller, Audiobook, Fiction, Mystery, Psychological Thriller, Suspense, Mystery Thriller, Crime, Book Club, Adult ------ author(s): T.M. Logan	author	nan
+17	195	-2-	3	genre(s): Fiction, Mystery, Thriller, Legal Thriller, Audiobook, Crime, Mystery Thriller, Suspense, Adult Fiction, Adult ------ author(s): John Grisham	genre	nan
+17	196	-2-	4	genre(s): Mystery, Fiction, Thriller, Crime, Suspense, Audiobook, Mystery Thriller, Detective, Action, Adult Fiction ------ author(s): David Baldacci	author	nan
+21	943	-2-	3	genre(s): Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Adventure, Literature, Middle Grade, Audiobook ------ author(s): Kenneth Grahame, Gillian Avery	genre	nan
+21	563	-2-	4	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Urban Fantasy, Greek Mythology, Magic ------ author(s): Rick Riordan	nan	nan
+21	641	-2-	3	genre(s): Classics, Childrens, Fiction, Young Adult, Fantasy, Animals, Middle Grade, Juvenile, Academic, School ------ author(s): E.B. White, Garth Williams, Rosemary Wells	genre, content	children's novel
+21	954	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Fairy Tales, Short Stories, Literature, Folklore, Mythology, Young Adult ------ author(s): Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter	genre	nan
+21	962	-2-	5	genre(s): Classics, Fiction, Adventure, Young Adult, Animals, Historical Fiction, Historical, Literature, School, Academic ------ author(s): Jack London, Avi	genre, content	nature
+21	977	-2-	4	genre(s): Childrens, Classics, Fantasy, Fiction, Animals, Young Adult, Juvenile, Novels, 20th Century, Adventure ------ author(s): Ellen Miles, Hugh Lofting	genre, content	animals
+12	332	-2-	4	genre(s): Fiction, Classics, Art, Literature, Historical, Historical Fiction, Novels, British Literature, European Literature, 20th Century ------ author(s): W. Somerset Maugham	genre and content	nan
+12	461	-2-	3	genre(s): Classics, Fiction, Literature, Historical, Historical Fiction, School, Academic, Novels, 19th Century, Classic Literature ------ author(s): Charles Dickens, Παυλίνα Παμπούδη, Marisa Sestino	content	the book was good but boring to some extent
+12	335	-2-	3	genre(s): Classics, Fiction, Romance, Short Stories, German Literature, European Literature, Literature, Novels, Modern Classics, Novella ------ author(s): Stefan Zweig	content	nan
+12	336	-2-	3	genre(s): Fiction, Classics, Philosophy, Literature, Novels, Czech Literature, European Literature, Romance, Contemporary, Literary Fiction ------ author(s): Milan Kundera	genre and content	nan
+12	344	-2-	4	genre(s): Fiction, Cultural, Japan, Japanese Literature, Classics, Literature, Novels, Asian Literature, Asia, 20th Century ------ author(s): Osamu Dazai, Donald Keene	genre and content	thought provoking
+12	473	-2-	1	genre(s): Fiction, Novels, Drama, Bangladesh, Cultural, Classics, Literary Fiction, Contemporary ------ author(s): Humayun Ahmed	genre and content	nan
+16	435	-2-	4	genre(s): Business, Nonfiction, Entrepreneurship, Management, Leadership, Buisness, Self Help, Science, Technology, Biography ------ author(s): Ben Horowitz	genre	nan
+16	436	-2-	3	genre(s): Business, Nonfiction, Entrepreneurship, Management, Leadership, Science, Technology, Buisness, Economics, Self Help ------ author(s): Clayton M. Christensen, L.J. Ganser	genre	nan
+16	953	-2-	2	genre(s): Esoterica, Astrology, Reference, Nonfiction, New Age, Self Help, Spirituality, Occult, Psychology, Divination ------ author(s): Gary Goldschneider, Joost Elffers, Aron Goldschneider	genre	nan
+16	608	-2-	3	genre(s): Self Help, Nonfiction, Personal Development, Psychology, Business, Communication, Leadership, Language, Management, Productivity ------ author(s): Damon Zahariades	content	nan
+16	842	-2-	3	genre(s): Mathematics, Nonfiction, Reference, Textbooks, Technical, Science, Computer Science, Programming, Artificial Intelligence, Software ------ author(s): Larry Wasserman	content	nan
+16	843	-2-	3	genre(s): Computer Science, Mathematics, Programming, Nonfiction, Science, Textbooks, Technical, Technology, Artificial Intelligence, Reference ------ author(s): Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten	content	nan
+25	677	-2-	4	genre(s): Self Help, Nonfiction, Psychology, Personal Development, Business, Philosophy, Audiobook, Leadership, Inspirational, Health ------ author(s): Dale Carnegie	genre	nan
+25	166	-2-	5	genre(s): Science, Nonfiction, Physics, Philosophy, Popular Science, Astronomy, Audiobook, Religion, History, Space ------ author(s): Stephen Hawking, Leonard Mlodinow	genre	nan
+25	298	-2-	4	genre(s): Nonfiction, Psychology, Science, Sociology, Business, Economics, Philosophy, Self Help, Social Science, Audiobook ------ author(s): Duncan J. Watts	genre	nan
+25	299	-2-	5	genre(s): Philosophy, History, Nonfiction, Classics, Reference, Politics, Religion, Unfinished, Historical, Science ------ author(s): Bertrand Russell	genre	nan
+25	434	-2-	4	genre(s): Business, Nonfiction, Psychology, Self Help, Personal Development, Leadership, Communication, Language, Audiobook, Management ------ author(s): Chris Voss, Tahl Raz	genre	nan
+25	310	-2-	1	genre(s): Religion, Nonfiction, History, Reference, Philosophy, Christianity, Spirituality, Science, Theology, Christian ------ author(s): Isaac Asimov, Rafael Palacios	genre	nan
+22	321	-2-	2	genre(s): Politics, Nonfiction, Philosophy, Economics, Theory, Sociology, Writing, Essays, History, Cultural ------ author(s): Mark Fisher	genre	sociology
+22	312	-2-	3	genre(s): Science, Nonfiction, Philosophy, Artificial Intelligence, Mathematics, Computer Science, Psychology, Technology, Economics, Popular Science ------ author(s): Judea Pearl, Dana Mackenzie	genre	AI
+22	676	-2-	5	genre(s): Self Help, Business, Nonfiction, Personal Development, Psychology, Leadership, Productivity, Entrepreneurship, Inspirational, Audiobook ------ author(s): David J. Schwartz	genre	nan
+22	604	-2-	4	genre(s): Nonfiction, Self Help, Productivity, Psychology, Technology, Personal Development, Audiobook, Business, Philosophy, Science ------ author(s): Cal Newport	genre	productivity
+22	607	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Business, Productivity, Audiobook, Psychology, Leadership, Philosophy, Health ------ author(s): Robin S. Sharma	genre	self help
+22	609	-2-	4	genre(s): Nonfiction, Productivity, Self Help, Business, Personal Development, Audiobook, Psychology, Design, Management, Leadership ------ author(s): Jake Knapp, John Zeratsky	genre	nan
+13	937	-2-	3	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Magic, Young Adult Fantasy, Adventure, Science Fiction Fantasy, Witches ------ author(s): Diana Wynne Jones	author	nan
+13	942	-2-	1	genre(s): Fantasy, Fiction, Childrens, Classics, German Literature, European Literature, Young Adult, Novels, Middle Grade, Literature ------ author(s): Michael Ende	genre	nan
+13	943	-2-	3	genre(s): Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Adventure, Literature, Middle Grade, Audiobook ------ author(s): Kenneth Grahame, Gillian Avery	author	nan
+13	188	-2-	3	genre(s): Adventure, Young Adult, Fantasy, Middle Grade, Childrens, Science Fiction Fantasy, Young Adult Fantasy, Fiction, Drama, New Adult ------ author(s): Robyn Mundell, Stephan Lacast	genre	nan
+13	963	-2-	2	genre(s): France, Cultural, Fiction, Childrens, Classics, Humor, French Literature, European Literature, Short Stories, School ------ author(s): René Goscinny, Jean-Jacques Sempé	author	nan
+13	975	-2-	4	genre(s): Classics, Childrens, Fiction, Young Adult, Middle Grade, Fantasy, Humor, Adventure, Juvenile, Swedish Literature ------ author(s): Astrid Lindgren, Florence Lamborn, Louis S. Glanzman	author	nan
+23	977	-2-	4	genre(s): Childrens, Classics, Fantasy, Fiction, Animals, Young Adult, Juvenile, Novels, 20th Century, Adventure ------ author(s): Ellen Miles, Hugh Lofting	gển: Children, Classics, Fantasy, Animals	nan
+23	978	-2-	4	genre(s): Classics, Fiction, Animals, Adventure, Childrens, Novels, Young Adult, Realistic Fiction, Dogs ------ author(s): Pauline Francis, Jack London	genre: Classics, Animals, Adventure	nan
+23	979	-2-	3	genre(s): Classics, Fiction, Fantasy, Childrens, Juvenile, Middle Grade, Adventure ------ author(s): Martin Woodside, Jamel Akib, Arthur Pober, Jonathan Swift	genre: Classics, Children, Adventure	nan
+23	980	-2-	4	genre(s): Classics, Fiction, Young Adult, Fantasy, Childrens ------ author(s): Tania Zamorsky, Carlo Collodi, Jacob Grimm, Lucy Corvino, Arthur Pober	genre: Classics, Children, Fantasy	nan
+23	981	-2-	1	genre(s): Childrens, Fiction, Classics, Fantasy, Young Adult, Middle Grade, Humor, Audiobook, Magic, Juvenile ------ author(s): Roald Dahl, Quentin Blake	genre: Children, Classics, Humor	nan
+23	982	-2-	4	genre(s): Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Juvenile, Novels ------ author(s): Roald Dahl, Quentin Blake	genre: Children, Fantasy, Humor	nan
+14	682	-2-	3	genre(s): Business, Nonfiction, Entrepreneurship, Management, Productivity, Self Help, Leadership, Buisness, Personal Development, Technology ------ author(s): Jason Fried, David Heinemeier Hansson	genre	nan
+14	684	-2-	2	genre(s): History, Pakistan, Cultural, Nonfiction, Politics, Asia, India, Religion, Islam, Journalism ------ author(s): Anatol Lieven	content	nan
+14	434	-2-	3	genre(s): Business, Nonfiction, Psychology, Self Help, Personal Development, Leadership, Communication, Language, Audiobook, Management ------ author(s): Chris Voss, Tahl Raz	content	nan
+14	821	-2-	3	genre(s): Business, Entrepreneurship, Nonfiction, Buisness, Management, Self Help, Audiobook, Finance, Leadership, Personal Development ------ author(s): John Warrillow	content	nan
+14	438	-2-	3	genre(s): Business, Nonfiction, Leadership, Management, Entrepreneurship, Buisness, Self Help, Economics, Personal Development, Finance ------ author(s): James C. Collins, Jerry I. Porras	genre	nan
+14	439	-2-	4	genre(s): Business, Nonfiction, Entrepreneurship, Management, Buisness, Economics, Leadership, Self Help, Audiobook, Finance ------ author(s): W. Chan Kim, Renée Mauborgne	genre	nan
+5	668	-2-	4	genre(s): Self Help, Nonfiction, Spirituality, Philosophy, Psychology, Personal Development, Audiobook, Religion, Inspirational, Unfinished ------ author(s): Eckhart Tolle	genre	nan
+5	947	-2-	3	genre(s): Nonfiction, Self Help, Psychology, Relationships, Marriage, Personal Development, Philosophy, Romance, Unfinished, Communication ------ author(s): John Gray	genre	nan
+5	158	-2-	4	genre(s): Self Help, Nonfiction, Philosophy, Spirituality, Personal Development, Inspirational, Psychology, Business, Unfinished, Audiobook ------ author(s): Robin S. Sharma	genre	nan
+5	801	-2-	2	author(s): Jeff Olson	content	nan
+5	802	-2-	4	genre(s): Nonfiction, Philosophy, Spirituality ------ author(s): Viktor E. Frankl, Kim Chung-sun	genre	nan
+5	675	-2-	5	genre(s): Self Help, Nonfiction, Psychology, Personal Development, Business, Inspirational, Philosophy, Spirituality, Religion, Leadership ------ author(s): Norman Vincent Peale	genre	nan
+6	440	-2-	2	genre(s): Nonfiction, Business, Productivity, Self Help, Personal Development, Management, Leadership, Psychology, Reference, Audiobook ------ author(s): David    Allen	genre	nan
+6	953	-2-	1	genre(s): Esoterica, Astrology, Reference, Nonfiction, New Age, Self Help, Spirituality, Occult, Psychology, Divination ------ author(s): Gary Goldschneider, Joost Elffers, Aron Goldschneider	genre	nan
+6	605	-2-	2	genre(s): Nonfiction, Leadership, Business, Self Help, Audiobook, Personal Development, Psychology, Management, Education, Adult ------ author(s): Brené Brown	genre	nan
+6	607	-2-	1	genre(s): Self Help, Nonfiction, Personal Development, Business, Productivity, Audiobook, Psychology, Leadership, Philosophy, Health ------ author(s): Robin S. Sharma	genre	nan
+6	609	-2-	1	genre(s): Nonfiction, Productivity, Self Help, Business, Personal Development, Audiobook, Psychology, Design, Management, Leadership ------ author(s): Jake Knapp, John Zeratsky	genre	nan
+6	611	-2-	2	genre(s): Leadership, Business, Nonfiction, Management, Personal Development, Self Help, Psychology, Communication, Language, Buisness ------ author(s): Michael Bungay Stanier	genre	nan
+15	331	-2-	4	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez	genre, author	nan
+15	332	-2-	3	genre(s): Fiction, Classics, Art, Literature, Historical, Historical Fiction, Novels, British Literature, European Literature, 20th Century ------ author(s): W. Somerset Maugham	genre,content	nan
+15	334	-2-	3	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, John Sturrock	genre,content	nan
+15	463	-2-	3	genre(s): Classics, Fiction, Historical Fiction, Literature, Novels, 19th Century, Classic Literature, British Literature, European Literature, Victorian ------ author(s): Charles Dickens, Philip Horne, Gerald Dickens, 查尔斯·狄更斯, 吴倩卓	genre	nan
+15	462	-2-	3	genre(s): Classics, Fiction, Literature, Historical, Historical Fiction, 19th Century, Novels, British Literature, European Literature, Classic Literature ------ author(s): Charles Dickens, Jeremy Tambling	genre,content	nan
+15	346	-2-	4	genre(s): Fiction, Cultural, Japan, Japanese Literature, Classics, Literature, Asia, Romance, Novels, Nobel Prize ------ author(s): Yasunari Kawabata, Edward G. Seidensticker	genre, author, content	nan
+19	677	-2-	5	genre(s): Self Help, Nonfiction, Psychology, Personal Development, Business, Philosophy, Audiobook, Leadership, Inspirational, Health ------ author(s): Dale Carnegie	genre,content	nan
+19	241	-2-	3	genre(s): Nonfiction, Self Help, Psychology, Audiobook, Personal Development, Philosophy, Business, Humor, Adult, Unfinished ------ author(s): Mark Manson	content,genre	nan
+19	301	-2-	2	genre(s): Philosophy, History, Nonfiction, Ancient ------ author(s): W.K.C. Guthrie	content	nan
+19	311	-2-	1	genre(s): Philosophy, Politics, Nonfiction, History ------ author(s): Raymond Geuss	content	nan
+19	287	-2-	3	genre(s): Philosophy, Islam, History, Religion ------ author(s): Majid Fakhry	content	nan
+19	321	-2-	1	genre(s): Politics, Nonfiction, Philosophy, Economics, Theory, Sociology, Writing, Essays, History, Cultural ------ author(s): Mark Fisher	genre	nan
+10	73	-2-	3	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Gothic, Historical, 19th Century, School, Academic ------ author(s): Charlotte Brontë, Michael Mason, Barnett Freedman	genre	fiction
+10	203	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Crime, Mystery Thriller, Legal Thriller, Novels, Drama, Law ------ author(s): John Grisham, Robin Waterfield	genre	Thriller
+10	204	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Spy Thriller, Espionage, Adventure, Action, Mystery Thriller, Crime ------ author(s): Robert Ludlum	genre	mystery
+10	205	-2-	4	genre(s): Fiction, Thriller, Mystery, Suspense, Military Fiction, Espionage, Spy Thriller, Adventure, Action, War ------ author(s): Tom Clancy	genre	adventure
+10	335	-2-	2	genre(s): Classics, Fiction, Romance, Short Stories, German Literature, European Literature, Literature, Novels, Modern Classics, Novella ------ author(s): Stefan Zweig	content	romance
+10	83	-2-	4	genre(s): Fiction, Thriller, Mystery, Suspense, Crime, Mystery Thriller, Novels, Adventure, Science Fiction, Drama ------ author(s): Dan Brown	genre	Thriller
+1	702	-2-	3	genre(s): Fiction, Contemporary, Literary Fiction, Audiobook, Africa, Cultural, Adult, Mental Health, Health, Adult Fiction ------ author(s): Yaa Gyasi	Genre	nan
+1	959	-2-	3	genre(s): Sequential Art, Manga, Fantasy, Graphic Novels, Comics, Romance, Shojo, Magic, Fiction, Young Adult ------ author(s): CLAMP, Maria Simpson	Genre	nan
+1	706	-2-	4	genre(s): Fiction, Contemporary, Literary Fiction, Romance, Audiobook, Adult Fiction, Adult, Language, Writing, Novels ------ author(s): Lily King	Genre	nan
+1	451	-2-	4	genre(s): Romance, Fiction, Erotica, Adult, BDSM, Contemporary, Chick Lit, Womens Fiction, Contemporary Romance, Erotic Romance ------ author(s): E.L. James	Genre	nan
+1	708	-2-	4	genre(s): Fiction, Contemporary, India, Cultural, Literary Fiction, Audiobook, Adult Fiction, Adult, Novels, Asia ------ author(s): Megha Majumdar	Genre	nan
+1	709	-2-	4	genre(s): Fiction, Contemporary, Literary Fiction, Audiobook, Adult, Romance, Novels, Adult Fiction, Race, African American ------ author(s): Raven Leilani	Genre	nan
+9	247	-2-	1	genre(s): Nonfiction, Memoir, Autobiography, Social Issues, Biography ------ author(s): Liyana Dhamirah	content	nan
+9	207	-2-	4	genre(s): Nonfiction, Humor, Memoir, Writing, Essays, Audiobook, Short Stories, Biography, Comedy, Biography Memoir ------ author(s): David Sedaris	content	nan
+9	86	-2-	2	genre(s): Nonfiction, Art, Feminism, Biography, Psychology, Self Help, History, Biography Memoir ------ author(s): Arianna Davis	content	nan
+9	633	-2-	4	genre(s): Nonfiction, Humor, Memoir, Audiobook, Writing, Essays, Short Stories, Biography, Comedy, Adult ------ author(s): Mindy Kaling	author,content	HumorShort ,Stories, Biography, Comedy
+9	601	-2-	4	genre(s): Business, Nonfiction, Biography, Science, Technology, Biography Memoir, Audiobook, Entrepreneurship, The United States Of America, Leadership ------ author(s): Reeves  Wiedeman	genre, content	Entrepreneurship
+9	219	-2-	2	genre(s): Nonfiction, Memoir, Biography, Audiobook, Biography Memoir, Autobiography, Book Club, Education, Adult, Religion ------ author(s): Tara Westover	content	nan
+11	136	-2-	5	genre(s): Classics, Fiction, Historical Fiction, Cultural, Russia, Literature, Russian Literature, War, Novels, Historical ------ author(s): Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude, Vladimir Levstik	author	nan
+11	562	-2-	2	genre(s): Fiction, Classics, India, Cultural, Novels, Asian Literature, Indian Literature, Drama, Literary Fiction, Asia ------ author(s): Bibhutibhushan Bandyopadhyay	content	nan
+11	966	-2-	2	genre(s): Fiction, Classics, Italian Literature, European Literature, Italy, Cultural, Fantasy, Literature, Novels, Magical Realism ------ author(s): Italo Calvino, Archibald Colquhoun, Ana Goldstein	content	nan
+11	328	-2-	4	genre(s): Classics, Fiction, Cultural, China, Literature, Asia, Historical Fiction, Historical, Chinese Literature, Romance ------ author(s): Cao Xueqin, Chi-chen Wang, Mark Van Doren	content	it seems to resemble to the Romeo and Juliet play
+11	73	-2-	4	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Gothic, Historical, 19th Century, School, Academic ------ author(s): Charlotte Brontë, Michael Mason, Barnett Freedman	author	nan
+11	331	-2-	5	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez	content	I really like the content of the books written in the so called "magical realism"
+7	545	-2-	3	genre(s): Fiction, Classics, India, Cultural, Indian Literature, Asian Literature, Romance, Novels, Literature, Drama ------ author(s): Rabindranath Tagore, Radha Chakravarty	genre, author	nan
+7	546	-2-	3	genre(s): Classics, Fiction, India, Cultural, Historical Fiction, Literature, Novels, British Literature, European Literature, 20th Century ------ author(s): E.M. Forster, Oliver Stallybrass, Pankaj Mishra	genre	nan
+7	549	-2-	3	genre(s): Romance, Fiction, Classics, Poetry, Novels, Asian Literature, Indian Literature, India, Cultural, Romantic ------ author(s): Rabindranath Tagore, Anindita Mukhopadhyay	genre	nan
+7	810	-2-	2	author(s): Charles Dickens	author	nan
+7	562	-2-	4	genre(s): Fiction, Classics, India, Cultural, Novels, Asian Literature, Indian Literature, Drama, Literary Fiction, Asia ------ author(s): Bibhutibhushan Bandyopadhyay	genre	nan
+7	73	-2-	5	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Gothic, Historical, 19th Century, School, Academic ------ author(s): Charlotte Brontë, Michael Mason, Barnett Freedman	genre	nan
+3	813	-2-	2	genre(s): Nonfiction, Business, Self Help, Personal Development, Leadership, Psychology, Productivity, Philosophy, Inspirational, Reference ------ author(s): Timothy Ferriss	content	nan
+3	307	-2-	1	genre(s): Philosophy, Nonfiction, Classics, German Literature, European Literature, Psychology, Literature, Religion, 19th Century, Reference ------ author(s): Friedrich Nietzsche, Walter Kaufmann	content	nan
+3	822	-2-	1	genre(s): Self Help, Personal Development, Nonfiction, Business, Psychology, Productivity, Leadership, Philosophy, Buisness, Inspirational ------ author(s): Jeff Olson	content	nan
+3	607	-2-	1	genre(s): Self Help, Nonfiction, Personal Development, Business, Productivity, Audiobook, Psychology, Leadership, Philosophy, Health ------ author(s): Robin S. Sharma	content	nan
+3	675	-2-	2	genre(s): Self Help, Nonfiction, Psychology, Personal Development, Business, Inspirational, Philosophy, Spirituality, Religion, Leadership ------ author(s): Norman Vincent Peale	genre	nan
+3	596	-2-	3	genre(s): History, Biography, Nonfiction, North American Hi..., American History, Presidents, Politics, Historical, Biography Memoir, American Revolution ------ author(s): David McCullough	genre	nan
+2	42	-2-	3	genre(s): Fantasy, Romance, Young Adult, New Adult, Fairies, Fae, Magic, Fiction, Young Adult Fantasy, Paranormal ------ author(s): Sarah J. Maas	genre	nan
+2	43	-2-	4	genre(s): Fantasy, Young Adult, Dystopia, Romance, Fiction, Magic, Science Fiction, Audiobook, Young Adult Fantasy, Teen ------ author(s): Amy Ewing	genre	nan
+2	44	-2-	4	genre(s): Fantasy, Young Adult, Romance, New Adult, Retellings, Fiction, Fairies, Fae, Magic, Young Adult Fantasy ------ author(s): Sarah J. Maas	genre	nan
+2	45	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Romance, Novels, Crime, Drama, Adult ------ author(s): Sidney Sheldon	genre	nan
+2	572	-2-	5	genre(s): Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Adventure, Crime, Novels, Science Fiction, Action ------ author(s): Dan Brown	author	nan
+2	959	-2-	3	genre(s): Sequential Art, Manga, Fantasy, Graphic Novels, Comics, Romance, Shojo, Magic, Fiction, Young Adult ------ author(s): CLAMP, Maria Simpson	content	nan
+8	963	-2-	2	genre(s): France, Cultural, Fiction, Childrens, Classics, Humor, French Literature, European Literature, Short Stories, School ------ author(s): René Goscinny, Jean-Jacques Sempé	Genre	nan
+8	975	-2-	1	genre(s): Classics, Childrens, Fiction, Young Adult, Middle Grade, Fantasy, Humor, Adventure, Juvenile, Swedish Literature ------ author(s): Astrid Lindgren, Florence Lamborn, Louis S. Glanzman	Genre	nan
+8	976	-2-	2	genre(s): Fantasy, Childrens, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Audiobook, Juvenile ------ author(s): Roald Dahl, Quentin Blake	Genre	nan
+8	977	-2-	2	genre(s): Childrens, Classics, Fantasy, Fiction, Animals, Young Adult, Juvenile, Novels, 20th Century, Adventure ------ author(s): Ellen Miles, Hugh Lofting	Genre	nan
+8	978	-2-	3	genre(s): Classics, Fiction, Animals, Adventure, Childrens, Novels, Young Adult, Realistic Fiction, Dogs ------ author(s): Pauline Francis, Jack London	Genre	nan
+8	979	-2-	4	genre(s): Classics, Fiction, Fantasy, Childrens, Juvenile, Middle Grade, Adventure ------ author(s): Martin Woodside, Jamel Akib, Arthur Pober, Jonathan Swift	Genre	nan
+20	936	-2-	2	genre(s): Fantasy, Young Adult, Fiction, Romance, Magic, Middle Grade, Childrens, Adventure, Classics, Young Adult Fantasy ------ author(s): Diana Wynne Jones	content	nan
+20	937	-2-	2	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Magic, Young Adult Fantasy, Adventure, Science Fiction Fantasy, Witches ------ author(s): Diana Wynne Jones	content	nan
+20	943	-2-	1	genre(s): Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Adventure, Literature, Middle Grade, Audiobook ------ author(s): Kenneth Grahame, Gillian Avery	content	nan
+20	563	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Urban Fantasy, Greek Mythology, Magic ------ author(s): Rick Riordan	genre	nan
+20	567	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Young Adult Fantasy ------ author(s): Rick Riordan	genre	nan
+20	568	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology, Urban Fantasy, Childrens, Young Adult Fantasy ------ author(s): Rick Riordan	genre	nan
+18	464	-2-	4	genre(s): Classics, Fiction, France, Cultural, Historical Fiction, French Literature, European Literature, Novels, Literature, Historical ------ author(s): Victor Hugo	genre	nan
+18	88	-2-	4	genre(s): Fantasy, Fiction, Young Adult, Magic, Childrens, Middle Grade, Adventure, Classics, Audiobook, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre	nan
+18	347	-2-	1	genre(s): Classics, Fiction, France, Cultural, Literature, French Literature, European Literature, Romance, 19th Century, Novels ------ author(s): Gustave Flaubert, Mark Overstall, Malcolm Bowie, Margaret Mauldon	genre	nan
+18	221	-2-	1	genre(s): Classics, Fiction, Literature, Novels, American, School, Academic, Adventure, Classic Literature, Literary Fiction ------ author(s): Ernest Hemingway	genre	nan
+18	992	-2-	4	genre(s): Horror, Fiction, Thriller, Mystery, Crime, Suspense, Mystery Thriller, Classics, Novels, Drama ------ author(s): Thomas  Harris	genre	nan
+18	482	-2-	4	genre(s): Fiction, Historical Fiction, Adventure, Africa, Cultural, Historical, Thriller, Action, South Africa, Southern Africa ------ author(s): Wilbur Smith	genre	nan
+4	419	-2-	4	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Suspense, Audiobook, Adult, Crime, Adult Fiction, Contemporary ------ author(s): Ruth Ware	genre	nan
+4	724	-2-	4	genre(s): Mystery, Fiction, Thriller, Mystery Thriller, Audiobook, Crime, Contemporary, Adult, Suspense, Adult Fiction ------ author(s): Liz Moore	content	nan
+4	726	-2-	2	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Adult, Suspense, Contemporary, Psychological Thriller, Adult Fiction ------ author(s): Greer Hendricks, Sarah Pekkanen	genre	nan
+4	729	-2-	4	genre(s): Mystery, Fiction, Thriller, Mystery Thriller, Crime, Contemporary, Adult, Audiobook, Suspense, Adult Fiction ------ author(s): David Heska Wanbli Weiden	genre	nan
+4	730	-2-	2	genre(s): Fiction, Thriller, Mystery, Crime, Mystery Thriller, Suspense, Contemporary, Audiobook, Adult, Noir ------ author(s): S.A.  Cosby	genre	nan
+4	731	-2-	4	genre(s): Mystery, Thriller, Mystery Thriller, Fiction, Adult, Audiobook, Suspense, Contemporary, Crime, Adult Fiction ------ author(s): Megan Goldin	content	nan
+24	950	-2-	5	genre(s): Classics, Fiction, Young Adult, Historical Fiction, Childrens, Canada, Cultural, Historical, Middle Grade, Romance ------ author(s): L.M. Montgomery	author, genre	nan
+24	954	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Fairy Tales, Short Stories, Literature, Folklore, Mythology, Young Adult ------ author(s): Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter	content, author	nan
+24	963	-2-	5	genre(s): France, Cultural, Fiction, Childrens, Classics, Humor, French Literature, European Literature, Short Stories, School ------ author(s): René Goscinny, Jean-Jacques Sempé	content, author	nan
+24	330	-2-	5	genre(s): Classics, Fiction, Fantasy, Childrens, France, Cultural, Young Adult, Philosophy, Literature, French Literature ------ author(s): Antoine de Saint-Exupéry	author, genre	nan
+24	855	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Literature, 19th Century ------ author(s): Lewis Carroll	content, author	nan
+24	89	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Middle Grade, Adventure, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	author,genre, content	nan
+17	197	-2-	3	genre(s): Mystery, Crime, Fiction, Thriller, Mystery Thriller, Suspense, Murder Mystery, Detective, Adult, Anthropology ------ author(s): Kathy Reichs	author	nan
+17	198	-2-	4	genre(s): Mystery, Crime, Fiction, Thriller, Mystery Thriller, Suspense, Murder Mystery, Detective, Adult, Audiobook ------ author(s): Patricia Daniels Cornwell, Patricia Cornwell	author	nan
+17	199	-2-	2	genre(s): Mystery, Thriller, Crime, Fiction, Suspense, Mystery Thriller, Drama, Detective, Adult, Adult Fiction ------ author(s): Tess Gerritsen	genre	Adult
+17	200	-2-	5	genre(s): Mystery, Thriller, Fiction, Crime, Suspense, Mystery Thriller, Drama, Detective, Horror, Novels ------ author(s): Jeffery Deaver	genre	nan
+17	202	-2-	5	genre(s): Mystery, Fiction, Thriller, Crime, Suspense, Mystery Thriller, Detective, Adult, Audiobook, Murder Mystery ------ author(s): James Patterson	author	nan
+17	206	-2-	2	genre(s): Short Stories, Fiction, Race, Historical, Historical Fiction, Contemporary, Literary Fiction, Cultural, African American, Novella ------ author(s): Danielle  Evans	genre	nan
+21	978	-2-	4	genre(s): Classics, Fiction, Animals, Adventure, Childrens, Novels, Young Adult, Realistic Fiction, Dogs ------ author(s): Pauline Francis, Jack London	genre, content	Fiction, Adventure, animals
+21	979	-2-	5	genre(s): Classics, Fiction, Fantasy, Childrens, Juvenile, Middle Grade, Adventure ------ author(s): Martin Woodside, Jamel Akib, Arthur Pober, Jonathan Swift	genre	nan
+21	980	-2-	3	genre(s): Classics, Fiction, Young Adult, Fantasy, Childrens ------ author(s): Tania Zamorsky, Carlo Collodi, Jacob Grimm, Lucy Corvino, Arthur Pober	genre	nan
+21	981	-2-	4	genre(s): Childrens, Fiction, Classics, Fantasy, Young Adult, Middle Grade, Humor, Audiobook, Magic, Juvenile ------ author(s): Roald Dahl, Quentin Blake	genre, content	childhood
+21	982	-2-	4	genre(s): Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Juvenile, Novels ------ author(s): Roald Dahl, Quentin Blake	genre	nan
+21	983	-2-	3	genre(s): Classics, Historical Fiction, Childrens, Fiction, Young Adult, Historical, Middle Grade, Juvenile, Family, Audiobook ------ author(s): Laura Ingalls Wilder, Garth Williams	genre	Historical Fiction
+12	347	-2-	2	genre(s): Classics, Fiction, France, Cultural, Literature, French Literature, European Literature, Romance, 19th Century, Novels ------ author(s): Gustave Flaubert, Mark Overstall, Malcolm Bowie, Margaret Mauldon	genre	nan
+12	349	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Literature, France, Cultural, Historical, Novels, French Literature, European Literature ------ author(s): Victor Hugo, Lee Fahnestock, Norman MacAfee	genre and content	nan
+12	863	-2-	3	genre(s): Classics, Fiction, Psychology, Literature, Novels, Mental Health, Health, School, Academic, American ------ author(s): Ken Kesey	content	nan
+12	224	-2-	4	genre(s): Fiction, Historical Fiction, Novels, Asian Literature, Turkish Literature, Turkish, Cultural, Contemporary, Literature, Historical ------ author(s): Elif Shafak	genre	nan
+12	866	-2-	4	genre(s): Fiction, India, Cultural, Contemporary, Indian Literature, Asian Literature, Novels, Literature, Literary Fiction, Asia ------ author(s): Aravind Adiga	genre and content	nan
+12	358	-2-	4	genre(s): Short Stories, Fiction, Classics, Literature, American, Contemporary, Literary Fiction, 20th Century, The United States Of America, Love ------ author(s): Raymond Carver	genre	nan
+16	352	-2-	2	genre(s): Economics, Nonfiction, Business, Science, Finance, Sociology, Psychology, Social Science, Brain, Self Help ------ author(s): Robert H. Frank	genre	nan
+16	1020	-2-	2	genre(s): Nonfiction, Science, Humor, Audiobook, Physics, Comedy, Popular Science, Comics, Sequential Art, Adult ------ author(s): Randall Munroe	genre	nan
+16	233	-2-	4	genre(s): Nonfiction, Religion, Islam, Autobiography, Memoir, Philosophy, History, Theology, Spirituality, Faith ------ author(s): Carla Power	content	nan
+16	1002	-2-	3	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Inspirational, Adult, Unfinished, Spirituality ------ author(s): Jen Sincero	content	nan
+16	1006	-2-	3	genre(s): Psychology, Nonfiction, Science, Sociology, Philosophy, History, Social Science, Politics, Self Help, Unfinished ------ author(s): Philip G. Zimbardo	content	nan
+16	239	-2-	5	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey, Jim Collins	genre	nan
+25	953	-2-	1	genre(s): Esoterica, Astrology, Reference, Nonfiction, New Age, Self Help, Spirituality, Occult, Psychology, Divination ------ author(s): Gary Goldschneider, Joost Elffers, Aron Goldschneider	genre	nan
+25	244	-2-	1	genre(s): Islam, Religion, Nonfiction, Self Help, Spirituality, Inspirational, Faith ------ author(s): Nouman Ali Khan	genre	nan
+25	356	-2-	4	genre(s): Psychology, Self Help, Nonfiction, Productivity, Personal Development, Business, Social Science, How To, Audiobook, Leadership ------ author(s): Jane B. Burka, Lenora M. Yuen	genre	nan
+25	605	-2-	4	genre(s): Nonfiction, Leadership, Business, Self Help, Audiobook, Personal Development, Psychology, Management, Education, Adult ------ author(s): Brené Brown	genre	nan
+25	607	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Business, Productivity, Audiobook, Psychology, Leadership, Philosophy, Health ------ author(s): Robin S. Sharma	genre	nan
+25	609	-2-	4	genre(s): Nonfiction, Productivity, Self Help, Business, Personal Development, Audiobook, Psychology, Design, Management, Leadership ------ author(s): Jake Knapp, John Zeratsky	genre	nan
+22	611	-2-	4	genre(s): Leadership, Business, Nonfiction, Management, Personal Development, Self Help, Psychology, Communication, Language, Buisness ------ author(s): Michael Bungay Stanier	genre	personal development
+22	233	-2-	1	genre(s): Nonfiction, Religion, Islam, Autobiography, Memoir, Philosophy, History, Theology, Spirituality, Faith ------ author(s): Carla Power	story, Title, content	nan
+22	1002	-2-	2	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Inspirational, Adult, Unfinished, Spirituality ------ author(s): Jen Sincero	title, author	nan
+22	1003	-2-	5	genre(s): Psychology, Nonfiction, Self Help, Business, Education, Personal Development, Parenting, Leadership, Teaching, Productivity ------ author(s): Carol S. Dweck	title, genre	psychology
+22	236	-2-	4	genre(s): Nonfiction, Self Help, Business, Psychology, Personal Development, Leadership, Classics, Communication, Language, Audiobook ------ author(s): Dale Carnegie	author	nan
+22	621	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Productivity, Leadership, Inspirational, Buisness ------ author(s): Mel Robbins	title, content	psychology
+13	976	-2-	5	genre(s): Fantasy, Childrens, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Audiobook, Juvenile ------ author(s): Roald Dahl, Quentin Blake	author	nan
+13	977	-2-	4	genre(s): Childrens, Classics, Fantasy, Fiction, Animals, Young Adult, Juvenile, Novels, 20th Century, Adventure ------ author(s): Ellen Miles, Hugh Lofting	genre	nan
+13	978	-2-	3	genre(s): Classics, Fiction, Animals, Adventure, Childrens, Novels, Young Adult, Realistic Fiction, Dogs ------ author(s): Pauline Francis, Jack London	author	nan
+13	980	-2-	4	genre(s): Classics, Fiction, Young Adult, Fantasy, Childrens ------ author(s): Tania Zamorsky, Carlo Collodi, Jacob Grimm, Lucy Corvino, Arthur Pober	author	nan
+13	981	-2-	4	genre(s): Childrens, Fiction, Classics, Fantasy, Young Adult, Middle Grade, Humor, Audiobook, Magic, Juvenile ------ author(s): Roald Dahl, Quentin Blake	genre	nan
+13	982	-2-	5	genre(s): Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Juvenile, Novels ------ author(s): Roald Dahl, Quentin Blake	author	nan
+23	855	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Literature, 19th Century ------ author(s): Lewis Carroll	genre: Children, Classics, Fantasy	nan
+23	856	-2-	5	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook, Middle Grade, Magic, Literature ------ author(s): L. Frank Baum, W.W. Denslow	genre: Children, Classics, Fantasy	nan
+23	985	-2-	1	genre(s): Classics, Fantasy, Childrens, Fiction, Middle Grade, Audiobook, Young Adult, Juvenile, Magic, Adventure ------ author(s): P.L. Travers, Júlia Sardà, Mary   Shepard	genre: Children, Classics, Magic	nan
+23	90	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Middle Grade, Adventure, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre: Children, Fantasy	nan
+23	91	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Middle Grade, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre: Children, Fantasy	nan
+23	92	-2-	3	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	genre: Children, Fantasy	nan
+14	440	-2-	2	genre(s): Nonfiction, Business, Productivity, Self Help, Personal Development, Management, Leadership, Psychology, Reference, Audiobook ------ author(s): David    Allen	content	overated
+14	443	-2-	3	genre(s): Finance, Business, Nonfiction, Economics, Money, Currency, Personal Finance, Self Help, Buisness, Personal Development ------ author(s): Benjamin Graham, Jason Zweig, Warren Buffett	genre	nan
+14	444	-2-	3	genre(s): Business, Nonfiction, Entrepreneurship, Self Help, Personal Development, Buisness, Finance, Money, Currency, Economics ------ author(s): Chris Guillebeau	content	short stories,Business
+14	317	-2-	1	genre(s): Physics ------ author(s): Øyvind Grøn, Arne Næss	content, author	likes physics and laws but not this book
+14	437	-2-	2	genre(s): Business, Nonfiction, Psychology, Leadership, Language, Communication, Self Help, Design, Buisness, Management ------ author(s): Chip Heath, Dan Heath	content	nan
+14	337	-2-	2	genre(s): History, Nonfiction, Science, Anthropology, Sociology, Politics, Economics, Historical, World History, Audiobook ------ author(s): Jared Diamond	content	nan
+5	421	-2-	4	genre(s): Nonfiction, Self Help, Spirituality, Personal Development, Psychology, Philosophy, Audiobook, Autobiography, Memoir, Health ------ author(s): Jay Shetty	genre	nan
+5	811	-2-	4	genre(s): Nonfiction, Self Help, Spirituality, Psychology, Philosophy, Personal Development, Audiobook, Inspirational, Religion, Health ------ author(s): Michael A. Singer	genre	nan
+5	306	-2-	3	genre(s): Philosophy, Nonfiction, Sociology, Psychology, Religion, Feminism, Relationships, Writing, Sexuality, Marriage ------ author(s): Bertrand Russell	genre	nan
+5	819	-2-	4	genre(s): Spirituality ------ author(s): Michael A. Singer	genre	nan
+5	835	-2-	3	genre(s): Nonfiction, Psychology, Self Help, Philosophy, Personal Development, Audiobook, Religion, Unfinished, Science, Politics ------ author(s): Jordan B. Peterson, Norman Doidge, Ethan Van Sciver	genre	nan
+5	674	-2-	3	genre(s): Business, Self Help, Nonfiction, Economics, Finance, Personal Development, Psychology, Money, Currency, Personal Finance ------ author(s): Napoleon Hill, Ben Holden-Crowther	genre	nan
+6	356	-2-	3	genre(s): Psychology, Self Help, Nonfiction, Productivity, Personal Development, Business, Social Science, How To, Audiobook, Leadership ------ author(s): Jane B. Burka, Lenora M. Yuen	content	nan
+6	1002	-2-	2	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Inspirational, Adult, Unfinished, Spirituality ------ author(s): Jen Sincero	genre	nan
+6	1003	-2-	3	genre(s): Psychology, Nonfiction, Self Help, Business, Education, Personal Development, Parenting, Leadership, Teaching, Productivity ------ author(s): Carol S. Dweck	content	nan
+6	236	-2-	2	genre(s): Nonfiction, Self Help, Business, Psychology, Personal Development, Leadership, Classics, Communication, Language, Audiobook ------ author(s): Dale Carnegie	genre	nan
+6	621	-2-	2	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Productivity, Leadership, Inspirational, Buisness ------ author(s): Mel Robbins	genre	nan
+6	1006	-2-	3	genre(s): Psychology, Nonfiction, Science, Sociology, Philosophy, History, Social Science, Politics, Self Help, Unfinished ------ author(s): Philip G. Zimbardo	content	nan
+15	988	-2-	2	genre(s): Fiction, Historical Fiction, Romance, Classics, Australia, Cultural, Historical, Historical Romance, Novels, Drama ------ author(s): Colleen McCullough	content, author	nan
+15	989	-2-	2	genre(s): Fiction, Historical Fiction, Romance, Historical, Classics, Cultural, Japan, Adult, Novels, Asia ------ author(s): Arthur Golden	content	nan
+15	101	-2-	4	genre(s): Classics, Plays, Fiction, Romance, School, Academic, Drama, Read For School, Literature, High School ------ author(s): William Shakespeare, Paul Werstine, Barbara A. Mowat, Paavo Emil Cajander	genre,content	nan
+15	108	-2-	3	genre(s): Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, High Fantasy, Childrens, Epic Fantasy, Novels ------ author(s): J.R.R. Tolkien	genre,content	nan
+15	493	-2-	3	genre(s): Classics, Fiction, Literature, Novels, American, Historical Fiction, Historical, Cultural, Spain, School ------ author(s): Ernest Hemingway	genre	nan
+15	494	-2-	2	genre(s): Classics, Fiction, Literature, Historical Fiction, War, Novels, American, Cultural, Spain, Classic Literature ------ author(s): Ernest Hemingway	genre,content	nan
+19	323	-2-	2	genre(s): Politics, Nonfiction, Philosophy, History, Economics, Political Science, Sociology, Psychology, Society, Culture ------ author(s): Noam Chomsky, Peter R. Mitchell, John Schoeffel	content	nan
+19	841	-2-	3	genre(s): Nonfiction, India, Cultural, Politics, History, Philosophy, Religion, Sociology, Indian Literature, Asian Literature ------ author(s): B.R. Ambedkar	content,author	nan
+19	851	-2-	2	genre(s): History, Philosophy, Politics, Nonfiction, Political Science, Sociology, Theory, Classics, Psychology, 20th Century ------ author(s): Hannah Arendt	content	nan
+19	853	-2-	2	genre(s): Politics, Nonfiction, History, Philosophy, Sociology, Economics, Journalism, Writing, Political Science, Society ------ author(s): Edward S. Herman, Noam Chomsky	content	nan
+19	233	-2-	3	genre(s): Nonfiction, Religion, Islam, Autobiography, Memoir, Philosophy, History, Theology, Spirituality, Faith ------ author(s): Carla Power	content	nan
+19	239	-2-	5	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey, Jim Collins	content,genre	nan
+10	723	-2-	4	genre(s): Mystery, Historical Fiction, Fiction, Mystery Thriller, Thriller, Historical, Fantasy, Adult, Crime, Suspense ------ author(s): Stuart Turton	genre	mystery
+10	728	-2-	4	genre(s): Mystery, Fiction, Thriller, Historical, Mystery Thriller, Historical Fiction, Suspense, Crime, Horror, True Crime ------ author(s): Jess Lourey	content	mystery
+10	93	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre	fantasy
+10	992	-2-	2	genre(s): Horror, Fiction, Thriller, Mystery, Crime, Suspense, Mystery Thriller, Classics, Novels, Drama ------ author(s): Thomas  Harris	genre	horror
+10	868	-2-	2	genre(s): Fiction, Thriller, Mystery, Romance, Suspense, Mystery Thriller, Novels, Crime, Drama, Contemporary ------ author(s): Sidney Sheldon	genre	thriller
+10	359	-2-	3	genre(s): Short Stories, Classics, Cultural, China, Fiction, Literature, Asia, Chinese Literature, Horror, Asian Literature ------ author(s): Lu Xun, 魯迅	author	classics
+1	70	-2-	4	genre(s): Young Adult, Fantasy, Romance, Vampires, Fiction, Paranormal, Paranormal Romance, Supernatural, Werewolves, Shapeshifters ------ author(s): Stephenie Meyer	Genre, Author	nan
+1	71	-2-	4	genre(s): Young Adult, Fantasy, Romance, Vampires, Fiction, Paranormal, Paranormal Romance, Supernatural, Werewolves, Shapeshifters ------ author(s): Stephenie Meyer	Genre, Author	nan
+1	72	-2-	4	genre(s): Young Adult, Fantasy, Romance, Vampires, Fiction, Paranormal, Paranormal Romance, Supernatural, Werewolves, Shapeshifters ------ author(s): Stephenie Meyer	Genre, Author	nan
+1	714	-2-	3	genre(s): Fiction, LGBT, Contemporary, GLBT, Queer, Literary Fiction, Race, Adult, Novels, Audiobook ------ author(s): Brandon  Taylor	Genre	nan
+1	587	-2-	4	genre(s): Romance, Fiction, Love, Romantic, Contemporary, India, Love Story ------ author(s): Ravinder Singh	Genre	nan
+1	78	-2-	4	genre(s): Young Adult, Science Fiction, Fantasy, Romance, Fiction, Dystopia, Paranormal, Aliens, Adult, Paranormal Romance ------ author(s): Stephenie Meyer	Genre, Author	nan
+9	476	-2-	4	genre(s): Football, Biography, Sports, Nonfiction, Soccer, Autobiography, Memoir ------ author(s): Steven Gerrard	author	nan
+9	477	-2-	3	author(s): Steven Gerrard	author	nan
+9	95	-2-	3	genre(s): Nonfiction, Memoir, Humor, Audiobook, Biography, Comedy, Writing, Essays, Biography Memoir, Autobiography ------ author(s): Mindy Kaling	author	nan
+9	97	-2-	3	genre(s): Nonfiction, Humor, Audiobook, Memoir, Biography, Comedy, Autobiography, Biography Memoir, Adult, LGBT ------ author(s): Ellen DeGeneres	author	nan
+9	355	-2-	2	genre(s): Nonfiction, Memoir, LGBT, Biography, GLBT, Queer, Biography Memoir, Autobiography, Feminism, Parenting ------ author(s): Jeanette Winterson	content	nan
+9	357	-2-	3	genre(s): Biography, Nonfiction, Business, Science, Technology, History, Biography Memoir, Audiobook, Leadership, Memoir ------ author(s): Walter Isaacson	content	nan
+11	332	-2-	4	genre(s): Fiction, Classics, Art, Literature, Historical, Historical Fiction, Novels, British Literature, European Literature, 20th Century ------ author(s): W. Somerset Maugham	content	nan
+11	334	-2-	5	genre(s): Classics, Fiction, Historical Fiction, France, Cultural, Literature, French Literature, European Literature, Gothic, Historical ------ author(s): Victor Hugo, John Sturrock	content	nan
+11	335	-2-	5	genre(s): Classics, Fiction, Romance, Short Stories, German Literature, European Literature, Literature, Novels, Modern Classics, Novella ------ author(s): Stefan Zweig	author	nan
+11	472	-2-	2	genre(s): Historical Fiction, War, Fiction, Novels, Historical, Drama, Classics, Literature, Politics, Bangladesh ------ author(s): Humayun Ahmed	content	nan
+11	988	-2-	4	genre(s): Fiction, Historical Fiction, Romance, Classics, Australia, Cultural, Historical, Historical Romance, Novels, Drama ------ author(s): Colleen McCullough	content	nan
+11	989	-2-	2	genre(s): Fiction, Historical Fiction, Romance, Historical, Classics, Cultural, Japan, Adult, Novels, Asia ------ author(s): Arthur Golden	content	nan
+7	461	-2-	4	genre(s): Classics, Fiction, Literature, Historical, Historical Fiction, School, Academic, Novels, 19th Century, Classic Literature ------ author(s): Charles Dickens, Παυλίνα Παμπούδη, Marisa Sestino	genre, content	nan
+7	462	-2-	4	genre(s): Classics, Fiction, Literature, Historical, Historical Fiction, 19th Century, Novels, British Literature, European Literature, Classic Literature ------ author(s): Charles Dickens, Jeremy Tambling	content, genre	nan
+7	463	-2-	3	genre(s): Classics, Fiction, Historical Fiction, Literature, Novels, 19th Century, Classic Literature, British Literature, European Literature, Victorian ------ author(s): Charles Dickens, Philip Horne, Gerald Dickens, 查尔斯·狄更斯, 吴倩卓	content, genre	nan
+7	492	-2-	5	genre(s): Classics, Fiction, Historical, Historical Fiction, War, Literature, Novels, American, Romance, Classic Literature ------ author(s): Ernest Hemingway	content, genre	nan
+7	493	-2-	2	genre(s): Classics, Fiction, Literature, Novels, American, Historical Fiction, Historical, Cultural, Spain, School ------ author(s): Ernest Hemingway	author	nan
+7	494	-2-	3	genre(s): Classics, Fiction, Literature, Historical Fiction, War, Novels, American, Cultural, Spain, Classic Literature ------ author(s): Ernest Hemingway	content	nan
+3	348	-2-	2	genre(s): Nonfiction, Books About Books, Writing, Autobiography, Memoir, Classics, Biography, European Literature, British Literature, Biography Memoir ------ author(s): Helene Hanff	content	nan
+3	351	-2-	4	genre(s): Classics, Fiction, Fantasy, Adventure, Literature, Novels, Classic Literature, 18th Century, School, Academic ------ author(s): Jonathan Swift, Robert DeMaria Jr.	genre	nan
+3	228	-2-	4	genre(s): Islam, Religion, Nonfiction, Spirituality, Faith ------ author(s): A. Helwa	genre	nan
+3	488	-2-	2	genre(s): Biography, Nonfiction, History, World War I, War, Biography Memoir, Literature, Historical, Books About Books, Writing ------ author(s): John  Garth	content	nan
+3	234	-2-	1	genre(s): Nonfiction, Psychology, Science, Business, Economics, Self Help, Personal Development, Philosophy, Audiobook, Unfinished ------ author(s): Daniel Kahneman	genre	nan
+3	364	-2-	4	genre(s): Nonfiction, Biography, Classics, Memoir, History, Autobiography, Biography Memoir, Historical, Disability, Inspirational ------ author(s): Helen Keller	content	nan
+2	962	-2-	3	genre(s): Classics, Fiction, Adventure, Young Adult, Animals, Historical Fiction, Historical, Literature, School, Academic ------ author(s): Jack London, Avi	genre	nan
+2	201	-2-	5	genre(s): Fiction, Mystery, Thriller, Crime, Suspense, Legal Thriller, Mystery Thriller, Drama, Novels, Law ------ author(s): John Grisham	author	nan
+2	203	-2-	1	genre(s): Fiction, Thriller, Mystery, Suspense, Crime, Mystery Thriller, Legal Thriller, Novels, Drama, Law ------ author(s): John Grisham, Robin Waterfield	content	nan
+2	204	-2-	5	genre(s): Fiction, Thriller, Mystery, Suspense, Spy Thriller, Espionage, Adventure, Action, Mystery Thriller, Crime ------ author(s): Robert Ludlum	content	nan
+2	205	-2-	3	genre(s): Fiction, Thriller, Mystery, Suspense, Military Fiction, Espionage, Spy Thriller, Adventure, Action, War ------ author(s): Tom Clancy	genre	nan
+2	728	-2-	4	genre(s): Mystery, Fiction, Thriller, Historical, Mystery Thriller, Historical Fiction, Suspense, Crime, Horror, True Crime ------ author(s): Jess Lourey	genre	nan
+8	980	-2-	3	genre(s): Classics, Fiction, Young Adult, Fantasy, Childrens ------ author(s): Tania Zamorsky, Carlo Collodi, Jacob Grimm, Lucy Corvino, Arthur Pober	Genre	nan
+8	981	-2-	2	genre(s): Childrens, Fiction, Classics, Fantasy, Young Adult, Middle Grade, Humor, Audiobook, Magic, Juvenile ------ author(s): Roald Dahl, Quentin Blake	Author	nan
+8	982	-2-	4	genre(s): Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Juvenile, Novels ------ author(s): Roald Dahl, Quentin Blake	Author	nan
+8	855	-2-	5	genre(s): Classics, Fantasy, Fiction, Childrens, Adventure, Young Adult, Audiobook, Middle Grade, Literature, 19th Century ------ author(s): Lewis Carroll	Author	nan
+8	856	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook, Middle Grade, Magic, Literature ------ author(s): L. Frank Baum, W.W. Denslow	Genre	nan
+8	985	-2-	1	genre(s): Classics, Fantasy, Childrens, Fiction, Middle Grade, Audiobook, Young Adult, Juvenile, Magic, Adventure ------ author(s): P.L. Travers, Júlia Sardà, Mary   Shepard	genre	nan
+20	975	-2-	1	genre(s): Classics, Childrens, Fiction, Young Adult, Middle Grade, Fantasy, Humor, Adventure, Juvenile, Swedish Literature ------ author(s): Astrid Lindgren, Florence Lamborn, Louis S. Glanzman	content	nan
+20	976	-2-	2	genre(s): Fantasy, Childrens, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Audiobook, Juvenile ------ author(s): Roald Dahl, Quentin Blake	content	nan
+20	978	-2-	1	genre(s): Classics, Fiction, Animals, Adventure, Childrens, Novels, Young Adult, Realistic Fiction, Dogs ------ author(s): Pauline Francis, Jack London	genre	nan
+20	980	-2-	3	genre(s): Classics, Fiction, Young Adult, Fantasy, Childrens ------ author(s): Tania Zamorsky, Carlo Collodi, Jacob Grimm, Lucy Corvino, Arthur Pober	genre	nan
+20	981	-2-	2	genre(s): Childrens, Fiction, Classics, Fantasy, Young Adult, Middle Grade, Humor, Audiobook, Magic, Juvenile ------ author(s): Roald Dahl, Quentin Blake	genre	nan
+20	982	-2-	3	genre(s): Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Humor, Adventure, Juvenile, Novels ------ author(s): Roald Dahl, Quentin Blake	genre	nan
+18	868	-2-	4	genre(s): Fiction, Thriller, Mystery, Romance, Suspense, Mystery Thriller, Novels, Crime, Drama, Contemporary ------ author(s): Sidney Sheldon	genre, content	nan
+18	359	-2-	4	genre(s): Short Stories, Classics, Cultural, China, Fiction, Literature, Asia, Chinese Literature, Horror, Asian Literature ------ author(s): Lu Xun, 魯迅	genre	nan
+18	492	-2-	5	genre(s): Classics, Fiction, Historical, Historical Fiction, War, Literature, Novels, American, Romance, Classic Literature ------ author(s): Ernest Hemingway	genre	nan
+18	495	-2-	1	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Literature, Childrens, School, Academic ------ author(s): Mark Twain, Guy Cardwell, John Seelye	genre	nan
+18	371	-2-	3	genre(s): Classics, Fiction, Adventure, Literature, Historical, Historical Fiction, Novels, Classic Literature, 18th Century, School ------ author(s): Daniel Defoe, Virginia Woolf	genre	nan
+18	378	-2-	5	genre(s): Classics, Plays, Fiction, Drama, School, Academic, Literature, Theatre, Read For School, Poetry ------ author(s): William Shakespeare, Harold Bloom, Rex Gibson	genre	nan
+4	732	-2-	3	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Contemporary, Suspense, Adult, Crime, Adult Fiction, Audiobook ------ author(s): Rachel Howzell Hall	genre	nan
+4	733	-2-	4	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Contemporary, Adult, Psychological Thriller, Crime ------ author(s): Lisa Unger	content	nan
+4	734	-2-	3	genre(s): Mystery, Thriller, Crime, Mystery Thriller, Suspense, Fiction, Adult ------ author(s): L.T. Vargus	content	nan
+4	720	-2-	4	genre(s): Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Suspense, Adult, Psychological Thriller, Contemporary, Adult Fiction ------ author(s): Tarryn Fisher	genre	nan
+4	975	-2-	2	genre(s): Classics, Childrens, Fiction, Young Adult, Middle Grade, Fantasy, Humor, Adventure, Juvenile, Swedish Literature ------ author(s): Astrid Lindgren, Florence Lamborn, Louis S. Glanzman	author	nan
+4	360	-2-	4	genre(s): Mystery, Fiction, Cultural, Japan, Crime, Thriller, Asian Literature, Japanese Literature, Mystery Thriller, Detective ------ author(s): Keigo Higashino, Alexander O. Smith	genre	nan
+24	90	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Middle Grade, Adventure, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	author, content, genre	nan
+24	91	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Middle Grade, Audiobook, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	author, content, genre	nan
+24	860	-2-	4	genre(s): Historical Fiction, Fiction, Young Adult, Historical, Holocaust, War, Classics, World War II, School, Academic ------ author(s): John Boyne	author,genre	nan
+24	93	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	author, content, genre	nan
+24	94	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	author, content, genre	nan
+24	367	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Literature, Adventure, Novels, 19th Century, Middle Grade ------ author(s): Lewis Carroll, John Tenniel, Martin Gardner	author, genre	nan
+17	35	-2-	4	genre(s): Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Suspense, Crime, Adult, Psychological Thriller, Contemporary ------ author(s): Alex Michaelides	author	nan
+17	993	-2-	4	genre(s): Horror, Fiction, Thriller, Crime, Mystery, Suspense, Mystery Thriller, Novels, Drama, Psychological Thriller ------ author(s): Thomas  Harris	genre	Mystery
+17	360	-2-	4	genre(s): Mystery, Fiction, Cultural, Japan, Crime, Thriller, Asian Literature, Japanese Literature, Mystery Thriller, Detective ------ author(s): Keigo Higashino, Alexander O. Smith	author	nan
+17	362	-2-	4	genre(s): Fiction, Historical Fiction, Italy, Cultural, Italian Literature, European Literature, Novels, Audiobook, Literary Fiction, Contemporary ------ author(s): Elena Ferrante, Ann Goldstein	genre	nan
+17	888	-2-	4	genre(s): Fiction, Fantasy, Historical, Historical Fiction, Contemporary, Audiobook, Adult, Literary Fiction, Magical Realism, Adult Fiction ------ author(s): Chloe  Benjamin	author	nan
+17	382	-2-	2	genre(s): Romance, Fiction, Contemporary, Chick Lit, Womens Fiction, Adult, Adult Fiction, Audiobook, Drama, Realistic Fiction ------ author(s): Jojo Moyes	genre	Adult
+21	984	-2-	3	genre(s): Classics, Fiction, Childrens, Young Adult, Historical Fiction, Middle Grade, Historical, Juvenile, Childrens Classics, 19th Century ------ author(s): Johanna Spyri, Beverly Cleary, Angelo  Rinaldi	genre	nan
+21	985	-2-	3	genre(s): Classics, Fantasy, Childrens, Fiction, Middle Grade, Audiobook, Young Adult, Juvenile, Magic, Adventure ------ author(s): P.L. Travers, Júlia Sardà, Mary   Shepard	genre, content	nan
+21	92	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	genre, author, content, storyline	nan
+21	94	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	genre, author, content, storyline	nan
+21	991	-2-	3	genre(s): Childrens, Classics, Fiction, European Literature, Swedish Literature, Scandinavian Literature, Humor, Sweden, Cultural, Literature ------ author(s): Astrid Lindgren, Björn Berg, Lilian Seaton	genre	nan
+21	367	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Literature, Adventure, Novels, 19th Century, Middle Grade ------ author(s): Lewis Carroll, John Tenniel, Martin Gardner	genre, content	nan
+12	359	-2-	2	genre(s): Short Stories, Classics, Cultural, China, Fiction, Literature, Asia, Chinese Literature, Horror, Asian Literature ------ author(s): Lu Xun, 魯迅	genre	nan
+12	362	-2-	3	genre(s): Fiction, Historical Fiction, Italy, Cultural, Italian Literature, European Literature, Novels, Audiobook, Literary Fiction, Contemporary ------ author(s): Elena Ferrante, Ann Goldstein	genre and content	nan
+12	493	-2-	3	genre(s): Classics, Fiction, Literature, Novels, American, Historical Fiction, Historical, Cultural, Spain, School ------ author(s): Ernest Hemingway	genre	nan
+12	371	-2-	3	genre(s): Classics, Fiction, Adventure, Literature, Historical, Historical Fiction, Novels, Classic Literature, 18th Century, School ------ author(s): Daniel Defoe, Virginia Woolf	genre	nan
+12	503	-2-	2	genre(s): Fiction, Classics, Magical Realism, Literature, School, Academic, Spanish Literature, European Literature, Novels, Cultural ------ author(s): Gabriel García Márquez, Gregory Rabassa	content	nan
+12	638	-2-	3	genre(s): Romance, Fiction, Classics, Contemporary, Chick Lit, Womens Fiction, Novels, Love, Love Story, Adult ------ author(s): Erich Segal	content	nan
+16	626	-2-	4	genre(s): Nonfiction, History, Philosophy, Science, Politics, Audiobook, Psychology, Sociology, Society, Culture ------ author(s): Yuval Noah Harari	genre	nan
+16	883	-2-	4	genre(s): Nonfiction, Science, Philosophy, History, Psychology, Politics, Sociology, Economics, Audiobook, Society ------ author(s): Steven Pinker	content	nan
+16	244	-2-	5	genre(s): Islam, Religion, Nonfiction, Self Help, Spirituality, Inspirational, Faith ------ author(s): Nouman Ali Khan	genre	nan
+16	892	-2-	4	genre(s): Nonfiction, Education, Psychology, Self Help, Science, Teaching, Personal Development, Productivity, Audiobook, Business ------ author(s): Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel	content	nan
+16	253	-2-	1	genre(s): Nonfiction, Self Help, Philosophy, Cultural, Japan, Psychology, Health, Audiobook, Personal Development, Spirituality ------ author(s): Hector Garcia Puigcerver, Francesc Miralles	genre	nan
+16	1023	-2-	3	genre(s): Nonfiction, Science, History, Environment, Nature, Biology, Climate Change, Audiobook, Animals, Natural History ------ author(s): Elizabeth Kolbert	genre	nan
+25	611	-2-	4	genre(s): Leadership, Business, Nonfiction, Management, Personal Development, Self Help, Psychology, Communication, Language, Buisness ------ author(s): Michael Bungay Stanier	genre	nan
+25	228	-2-	1	genre(s): Islam, Religion, Nonfiction, Spirituality, Faith ------ author(s): A. Helwa	genre	nan
+25	621	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Audiobook, Psychology, Business, Productivity, Leadership, Inspirational, Buisness ------ author(s): Mel Robbins	genre	nan
+25	623	-2-	4	genre(s): Nonfiction, Self Help, Business, Audiobook, Personal Development, Productivity, Psychology, Adult, Leadership, Japan ------ author(s): Marie Kondō, Scott Sonenshein	genre	nan
+25	883	-2-	4	genre(s): Nonfiction, Science, Philosophy, History, Psychology, Politics, Sociology, Economics, Audiobook, Society ------ author(s): Steven Pinker	genre	nan
+25	628	-2-	4	genre(s): Economics, Nonfiction, Business, Politics, Finance, Audiobook, Philosophy, History, Science, Money ------ author(s): Thomas Sowell	genre	nan
+22	1006	-2-	5	genre(s): Psychology, Nonfiction, Science, Sociology, Philosophy, History, Social Science, Politics, Self Help, Unfinished ------ author(s): Philip G. Zimbardo	genre	psychology
+22	239	-2-	5	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey, Jim Collins	author, content, genre	non-fiction
+22	1010	-2-	2	genre(s): Nonfiction, Self Help, Psychology, Personal Development, Audiobook, Leadership, Parenting, Business, Relationships, Spirituality ------ author(s): Brené Brown	genre	nan
+22	244	-2-	1	genre(s): Islam, Religion, Nonfiction, Self Help, Spirituality, Inspirational, Faith ------ author(s): Nouman Ali Khan	genre	religion
+22	251	-2-	2	genre(s): Business, Leadership, Nonfiction, Self Help, Personal Development, Management, Psychology, Audiobook, Entrepreneurship, Buisness ------ author(s): Simon Sinek	title, genre	business
+22	1022	-2-	4	genre(s): Science, Nonfiction, Physics, Astronomy, Popular Science, Audiobook, Space, Philosophy, History, Education ------ author(s): Stephen Hawking	authr, genre, content	astronomy, non-fiction
+13	856	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook, Middle Grade, Magic, Literature ------ author(s): L. Frank Baum, W.W. Denslow	genre	nan
+13	985	-2-	3	genre(s): Classics, Fantasy, Childrens, Fiction, Middle Grade, Audiobook, Young Adult, Juvenile, Magic, Adventure ------ author(s): P.L. Travers, Júlia Sardà, Mary   Shepard	genre	nan
+13	991	-2-	3	genre(s): Childrens, Classics, Fiction, European Literature, Swedish Literature, Scandinavian Literature, Humor, Sweden, Cultural, Literature ------ author(s): Astrid Lindgren, Björn Berg, Lilian Seaton	genre	nan
+13	870	-2-	5	genre(s): Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy, Science Fiction Fantasy, Young Adult Fantasy, Childrens ------ author(s): Christopher Paolini	author	nan
+13	108	-2-	4	genre(s): Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, High Fantasy, Childrens, Epic Fantasy, Novels ------ author(s): J.R.R. Tolkien	genre	nan
+13	767	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Adventure, Magic, Books About Books, Writing, Young Adult Fantasy ------ author(s): Cornelia Funke, Anthea Bell	author	nan
+23	93	-2-	3	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling, Mary GrandPré	genre: Children, Fantasy, Magic	nan
+23	94	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Audiobook, Middle Grade, Classics, Science Fiction Fantasy ------ author(s): J.K. Rowling	genre: Children, Fantasy, Magic	nan
+23	870	-2-	3	genre(s): Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy, Science Fiction Fantasy, Young Adult Fantasy, Childrens ------ author(s): Christopher Paolini	genre: Children, Fantasy, Magic	nan
+23	108	-2-	4	genre(s): Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, High Fantasy, Childrens, Epic Fantasy, Novels ------ author(s): J.R.R. Tolkien	genre: Children, Fantasy, Classics	nan
+23	109	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Magic ------ author(s): Rick Riordan	genre: Children, Fantasy, Magic	nan
+23	367	-2-	4	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Literature, Adventure, Novels, 19th Century, Middle Grade ------ author(s): Lewis Carroll, John Tenniel, Martin Gardner	genre: Children, Fantasy	nan
+14	356	-2-	2	genre(s): Psychology, Self Help, Nonfiction, Productivity, Personal Development, Business, Social Science, How To, Audiobook, Leadership ------ author(s): Jane B. Burka, Lenora M. Yuen	genre	nan
+14	1003	-2-	4	genre(s): Psychology, Nonfiction, Self Help, Business, Education, Personal Development, Parenting, Leadership, Teaching, Productivity ------ author(s): Carol S. Dweck	genre	nan
+14	366	-2-	3	genre(s): Economics, Nonfiction, Business, Textbooks ------ author(s): Paul T. Heyne, David L. Prychitko, Peter J. Boettke	genre	nan
+14	1011	-2-	4	genre(s): Business, Nonfiction, Self Help, Productivity, Personal Development, Psychology, Leadership, Management, Buisness, Audiobook ------ author(s): Gary Keller, Jay Papasan	genre	nan
+14	1013	-2-	4	genre(s): Business, Leadership, Nonfiction, Management, Self Help, Buisness, Personal Development, Psychology, Entrepreneurship, Audiobook ------ author(s): Patrick Lencioni	genre	nan
+14	251	-2-	4	genre(s): Business, Leadership, Nonfiction, Self Help, Personal Development, Management, Psychology, Audiobook, Entrepreneurship, Buisness ------ author(s): Simon Sinek	genre	nan
+5	163	-2-	2	genre(s): Philosophy, Nonfiction ------ author(s): Roberta Sparrow	genre	nan
+5	607	-2-	4	genre(s): Self Help, Nonfiction, Personal Development, Business, Productivity, Audiobook, Psychology, Leadership, Philosophy, Health ------ author(s): Robin S. Sharma	genre	nan
+5	1009	-2-	4	genre(s): Nonfiction, Self Help, Psychology, Personal Development, Spirituality, Audiobook, Inspirational, Mental Health, Health, Philosophy ------ author(s): Brené Brown	genre	nan
+5	886	-2-	4	genre(s): Self Help, Nonfiction, Philosophy, Personal Development, Audiobook, Psychology, Spirituality, Cultural, Japan, Health ------ author(s): Hector Garcia Puigcerver	genre	nan
+5	631	-2-	5	genre(s): Self Help, Nonfiction, Spirituality, Psychology, Philosophy, Personal Development, Inspirational, Audiobook, New Age, Business ------ author(s): Rhonda Byrne	genre	nan
+5	122	-2-	5	genre(s): Poetry, Spirituality, Philosophy, Religion, Nonfiction, Theology, Islam, Literature, Reference, Self Help ------ author(s): Rumi, Coleman Barks	author	nan
+6	623	-2-	2	genre(s): Nonfiction, Self Help, Business, Audiobook, Personal Development, Productivity, Psychology, Adult, Leadership, Japan ------ author(s): Marie Kondō, Scott Sonenshein	genre	nan
+6	1008	-2-	4	genre(s): Psychology, Nonfiction, Philosophy, Science, Fantasy, Mythology, Classics, Religion, Psychoanalysis, Spirituality ------ author(s): C.G. Jung, Joseph L. Henderson, Aniela Jaffé, Jolande Jacobi, John    Freeman, Marie-Louise von Franz	genre,author	nan
+6	1010	-2-	2	genre(s): Nonfiction, Self Help, Psychology, Personal Development, Audiobook, Leadership, Parenting, Business, Relationships, Spirituality ------ author(s): Brené Brown	genre	nan
+6	1011	-2-	3	genre(s): Business, Nonfiction, Self Help, Productivity, Personal Development, Psychology, Leadership, Management, Buisness, Audiobook ------ author(s): Gary Keller, Jay Papasan	content	nan
+6	628	-2-	4	genre(s): Economics, Nonfiction, Business, Politics, Finance, Audiobook, Philosophy, History, Science, Money ------ author(s): Thomas Sowell	genre,content	nan
+6	251	-2-	2	genre(s): Business, Leadership, Nonfiction, Self Help, Personal Development, Management, Psychology, Audiobook, Entrepreneurship, Buisness ------ author(s): Simon Sinek	genre	nan
+15	367	-2-	5	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Literature, Adventure, Novels, 19th Century, Middle Grade ------ author(s): Lewis Carroll, John Tenniel, Martin Gardner	genre,content	nan
+15	371	-2-	4	genre(s): Classics, Fiction, Adventure, Literature, Historical, Historical Fiction, Novels, Classic Literature, 18th Century, School ------ author(s): Daniel Defoe, Virginia Woolf	genre, content , author	nan
+15	757	-2-	4	genre(s): Classics, Fiction, Romance, Gothic, Literature, Historical Fiction, 19th Century, Novels, Classic Literature, Historical ------ author(s): Emily Brontë, Richard J. Dunn, Charlotte Brontë, Robert Heindel	genre, content, author	nan
+15	118	-2-	4	genre(s): Classics, Fiction, Historical Fiction, Adventure, Literature, Historical, American, Novels, Classic Literature, War ------ author(s): James Fenimore Cooper	genre	adventure, fiction mostly
+15	378	-2-	4	genre(s): Classics, Plays, Fiction, Drama, School, Academic, Literature, Theatre, Read For School, Poetry ------ author(s): William Shakespeare, Harold Bloom, Rex Gibson	genre, content, author	nan
+15	126	-2-	4	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez, Edith Grossman	genre, content, author	nan
+19	1009	-2-	4	genre(s): Nonfiction, Self Help, Psychology, Personal Development, Spirituality, Audiobook, Inspirational, Mental Health, Health, Philosophy ------ author(s): Brené Brown	genre	nan
+19	244	-2-	3	genre(s): Islam, Religion, Nonfiction, Self Help, Spirituality, Inspirational, Faith ------ author(s): Nouman Ali Khan	content,genre	nan
+19	245	-2-	5	genre(s): Self Help, Nonfiction, Spirituality, Personal Development, Psychology, Audiobook, Mental Health, Health, Productivity, Philosophy ------ author(s): Vex King	genre,content	nan
+19	631	-2-	5	genre(s): Self Help, Nonfiction, Spirituality, Psychology, Philosophy, Personal Development, Inspirational, Audiobook, New Age, Business ------ author(s): Rhonda Byrne	genre,content	nan
+19	253	-2-	5	genre(s): Nonfiction, Self Help, Philosophy, Cultural, Japan, Psychology, Health, Audiobook, Personal Development, Spirituality ------ author(s): Hector Garcia Puigcerver, Francesc Miralles	conten ,genre	nan
+19	254	-2-	4	genre(s): Self Help, Nonfiction, Spirituality, Philosophy, Personal Development, Psychology, Inspirational, Religion, Audiobook, Business ------ author(s): Miguel Ruiz	genre,content	nan
+10	762	-2-	2	genre(s): Classics, Fiction, Romance, Historical Fiction, Literature, Historical, Classic Literature, 19th Century, British Literature, European Literature ------ author(s): Jane Austen, Tony Tanner, Ros Ballaster	genre	romance
+10	363	-2-	4	genre(s): Classics, Historical Fiction, Fiction, Romance, Historical, War, Literature, Military History, Civil War, Historical Romance ------ author(s): Margaret Mitchell	genre	classics
+10	371	-2-	3	genre(s): Classics, Fiction, Adventure, Literature, Historical, Historical Fiction, Novels, Classic Literature, 18th Century, School ------ author(s): Daniel Defoe, Virginia Woolf	genre	adventure
+10	758	-2-	3	genre(s): Mystery, Classics, Fiction, Crime, Mystery Thriller, Audiobook, Thriller, Detective, Adult, British Literature ------ author(s): Agatha Christie	genre	mystery
+10	760	-2-	4	genre(s): Classics, Mystery, Fiction, Short Stories, Crime, Detective, Literature, Historical Fiction, Historical, Mystery Thriller ------ author(s): Arthur Conan Doyle	content	classics
+10	378	-2-	3	genre(s): Classics, Plays, Fiction, Drama, School, Academic, Literature, Theatre, Read For School, Poetry ------ author(s): William Shakespeare, Harold Bloom, Rex Gibson	genre	classics
+1	592	-2-	3	genre(s): Young Adult, Dystopia, Fiction, Fantasy, Science Fiction, Romance, Adventure, Teen, Apocalyptic, Post Apocalyptic ------ author(s): Suzanne Collins	Genre	nan
+1	995	-2-	4	genre(s): Romance, Fiction, Chick Lit, Womens Fiction, Contemporary, Adult, Adult Fiction, Audiobook, Contemporary Romance, Drama ------ author(s): Nicholas Sparks	Genre	nan
+1	742	-2-	3	genre(s): Historical Fiction, Fantasy, Fiction, Magical Realism, Witches, Magic, Historical, Paranormal, Romance, Adult ------ author(s): Alice Hoffman	Genre	nan
+1	765	-2-	4	genre(s): Fantasy, Young Adult, Paranormal, Romance, Urban Fantasy, Fiction, Vampires, Supernatural, Angels, Magic ------ author(s): Cassandra Clare	Genre	nan
+1	382	-2-	4	genre(s): Romance, Fiction, Contemporary, Chick Lit, Womens Fiction, Adult, Adult Fiction, Audiobook, Drama, Realistic Fiction ------ author(s): Jojo Moyes	Genre	nan
+1	383	-2-	3	genre(s): Fantasy, Young Adult, Romance, Paranormal, Science Fiction, Steampunk, Historical Fiction, Urban Fantasy, Angels, Fiction ------ author(s): Cassandra Clare	Genre	nan
+9	487	-2-	1	genre(s): Biography, Nonfiction, Literary Criticism, History, Literature, Criticism, European Literature, British Literature, Books About Books, Writing ------ author(s): Tom Shippey	genre	Literary Criticism, History, Literature
+9	617	-2-	3	genre(s): Nonfiction, Memoir, Audiobook, Biography, Biography Memoir, Autobiography, Adult, Humor, Business, Self Help ------ author(s): Jenna Fischer	genre	nan
+9	618	-2-	4	genre(s): Business, Nonfiction, Biography, Memoir, Science, Technology, Entrepreneurship, Leadership, Audiobook, Autobiography ------ author(s): Marc Randolph	genre	Science, Technology, Entrepreneurship, Leadership, Audiobook,
+9	1012	-2-	3	genre(s): Nonfiction, History, Business, Biography, Technology, Science, Audiobook, Entrepreneurship, Computer Science, Computers ------ author(s): Walter Isaacson	genre	nan
+9	1015	-2-	2	genre(s): Nonfiction, Politics, Biography, Memoir, Autobiography, Audiobook, History, Biography Memoir, Presidents, African American ------ author(s): Barack Obama	content	nan
+9	889	-2-	2	genre(s): Nonfiction, Memoir, Biography, Audiobook, Autobiography, Politics, Biography Memoir, Feminism, Adult, History ------ author(s): Michelle Obama	content	nan
+11	350	-2-	1	genre(s): Fiction, Russian Literature, Cultural, Russia, Classics, Literature, War, Novels, Historical Fiction, Historical ------ author(s): Nikolai Ostrovsky	content	nan
+11	359	-2-	1	genre(s): Short Stories, Classics, Cultural, China, Fiction, Literature, Asia, Chinese Literature, Horror, Asian Literature ------ author(s): Lu Xun, 魯迅	content	nan
+11	363	-2-	3	genre(s): Classics, Historical Fiction, Fiction, Romance, Historical, War, Literature, Military History, Civil War, Historical Romance ------ author(s): Margaret Mitchell	content	nan
+11	369	-2-	5	genre(s): Classics, Fiction, France, Cultural, Literature, Novels ------ author(s): Honoré de Balzac, John Watkins, Dorothea Walter, Edward Killoran Brown	author	nan
+11	757	-2-	4	genre(s): Classics, Fiction, Romance, Gothic, Literature, Historical Fiction, 19th Century, Novels, Classic Literature, Historical ------ author(s): Emily Brontë, Richard J. Dunn, Charlotte Brontë, Robert Heindel	author	nan
+11	126	-2-	5	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez, Edith Grossman	author	nan
+7	757	-2-	4	genre(s): Classics, Fiction, Romance, Gothic, Literature, Historical Fiction, 19th Century, Novels, Classic Literature, Historical ------ author(s): Emily Brontë, Richard J. Dunn, Charlotte Brontë, Robert Heindel	genre, author	nan
+7	118	-2-	3	genre(s): Classics, Fiction, Historical Fiction, Adventure, Literature, Historical, American, Novels, Classic Literature, War ------ author(s): James Fenimore Cooper	genre	nan
+7	503	-2-	5	genre(s): Fiction, Classics, Magical Realism, Literature, School, Academic, Spanish Literature, European Literature, Novels, Cultural ------ author(s): Gabriel García Márquez, Gregory Rabassa	genre	nan
+7	504	-2-	4	genre(s): Fiction, Classics, Magical Realism, Literature, Novels, Fantasy, Historical Fiction, Historical, Spanish Literature, European Literature ------ author(s): Gabriel García Márquez, Gregory Rabassa, Seçkin Selvi	genre	nan
+7	378	-2-	3	genre(s): Classics, Plays, Fiction, Drama, School, Academic, Literature, Theatre, Read For School, Poetry ------ author(s): William Shakespeare, Harold Bloom, Rex Gibson	genre	nan
+7	126	-2-	5	genre(s): Fiction, Classics, Historical Fiction, Romance, Magical Realism, Literature, Novels, Spanish Literature, European Literature, Literary Fiction ------ author(s): Gabriel García Márquez, Edith Grossman	genre	nan
+3	239	-2-	1	genre(s): Self Help, Nonfiction, Business, Personal Development, Psychology, Leadership, Productivity, Management, Audiobook, Philosophy ------ author(s): Stephen R. Covey, Jim Collins	genre	nan
+3	882	-2-	1	genre(s): Nonfiction, Biography, Memoir, Poetry, Spanish Literature, European Literature, Autobiography, Biography Memoir, Cultural, Latin American ------ author(s): Pablo Neruda	content	nan
+3	244	-2-	3	genre(s): Islam, Religion, Nonfiction, Self Help, Spirituality, Inspirational, Faith ------ author(s): Nouman Ali Khan	genre	nan
+3	890	-2-	2	genre(s): History, Nonfiction, Biography, Politics, Philosophy, Classics, Autobiography, War, Historical, Memoir ------ author(s): Adolf Hitler, Ralph Manheim, Serpil Yener	genre	nan
+3	253	-2-	3	genre(s): Nonfiction, Self Help, Philosophy, Cultural, Japan, Psychology, Health, Audiobook, Personal Development, Spirituality ------ author(s): Hector Garcia Puigcerver, Francesc Miralles	genre	nan
+3	254	-2-	2	genre(s): Self Help, Nonfiction, Spirituality, Philosophy, Personal Development, Psychology, Inspirational, Religion, Audiobook, Business ------ author(s): Miguel Ruiz	genre	nan
+2	992	-2-	4	genre(s): Horror, Fiction, Thriller, Mystery, Crime, Suspense, Mystery Thriller, Classics, Novels, Drama ------ author(s): Thomas  Harris	genre	nan
+2	482	-2-	4	genre(s): Fiction, Historical Fiction, Adventure, Africa, Cultural, Historical, Thriller, Action, South Africa, Southern Africa ------ author(s): Wilbur Smith	genre	nan
+2	868	-2-	5	genre(s): Fiction, Thriller, Mystery, Romance, Suspense, Mystery Thriller, Novels, Crime, Drama, Contemporary ------ author(s): Sidney Sheldon	genre	nan
+2	495	-2-	3	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Literature, Childrens, School, Academic ------ author(s): Mark Twain, Guy Cardwell, John Seelye	genre	nan
+2	765	-2-	4	genre(s): Fantasy, Young Adult, Paranormal, Romance, Urban Fantasy, Fiction, Vampires, Supernatural, Angels, Magic ------ author(s): Cassandra Clare	genre	nan
+2	383	-2-	5	genre(s): Fantasy, Young Adult, Romance, Paranormal, Science Fiction, Steampunk, Historical Fiction, Urban Fantasy, Angels, Fiction ------ author(s): Cassandra Clare	genre	nan
+8	991	-2-	2	genre(s): Childrens, Classics, Fiction, European Literature, Swedish Literature, Scandinavian Literature, Humor, Sweden, Cultural, Literature ------ author(s): Astrid Lindgren, Björn Berg, Lilian Seaton	Content	nan
+8	100	-2-	3	genre(s): Fantasy, Classics, Fiction, Young Adult, Childrens, Adventure, Middle Grade, Christian, Magic, Christian Fiction ------ author(s): C.S. Lewis	Genre	nan
+8	108	-2-	4	genre(s): Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, High Fantasy, Childrens, Epic Fantasy, Novels ------ author(s): J.R.R. Tolkien	Genre	nan
+8	109	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Magic ------ author(s): Rick Riordan	Genre	nan
+8	495	-2-	2	genre(s): Classics, Fiction, Adventure, Young Adult, Historical, Historical Fiction, Literature, Childrens, School, Academic ------ author(s): Mark Twain, Guy Cardwell, John Seelye	Genre	nan
+8	767	-2-	1	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Adventure, Magic, Books About Books, Writing, Young Adult Fantasy ------ author(s): Cornelia Funke, Anthea Bell	Content	nan
+20	985	-2-	2	genre(s): Classics, Fantasy, Childrens, Fiction, Middle Grade, Audiobook, Young Adult, Juvenile, Magic, Adventure ------ author(s): P.L. Travers, Júlia Sardà, Mary   Shepard	content	nan
+20	167	-2-	3	genre(s): Fantasy, Fiction, Young Adult, Plays, Magic, Adventure, Drama, Science Fiction, Time Travel, Childrens ------ author(s): John Tiffany, Jack Thorne, J.K. Rowling	genre	nan
+20	108	-2-	3	genre(s): Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, High Fantasy, Childrens, Epic Fantasy, Novels ------ author(s): J.R.R. Tolkien	genre	nan
+20	109	-2-	3	genre(s): Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Childrens, Greek Mythology, Urban Fantasy, Magic ------ author(s): Rick Riordan	content	nan
+20	367	-2-	2	genre(s): Classics, Fantasy, Fiction, Childrens, Young Adult, Literature, Adventure, Novels, 19th Century, Middle Grade ------ author(s): Lewis Carroll, John Tenniel, Martin Gardner	content	nan
+20	767	-2-	4	genre(s): Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Adventure, Magic, Books About Books, Writing, Young Adult Fantasy ------ author(s): Cornelia Funke, Anthea Bell	content	nan
