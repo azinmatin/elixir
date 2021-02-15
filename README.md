@@ -18,7 +18,7 @@ The released code contains the following packages:
 - **update_similarity.py**: This file implements Equation 6 in the paper where a user specific preference vector is learned. This vector is used to transform the items’ representations leading to modification of the item-item similarity matrix.
 
 **simulation**: Here, we implement label propagation (introduced by [Zhu and Ghahramani](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.3864&rep=rep1&type=pdf)) to densify users’ pair-level feedback.
-- **feedback_simulation.py**: This file simulates users’ feedback on unlabeled pairs by running label propagation algorithm adopted from [3].
+- **feedback_simulation.py**: This file simulates users’ feedback on unlabeled pairs by running [label propagation algorithm](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.3864&rep=rep1&type=pdf).
 
 **user_study**: In this package, we generate spreadsheets for the study, preprocess the collected data and prepare the data for steps 3-6 of ELIXR’s pipeline.
 - **generate_study_files.py**: generates spreadsheets to be shared with the users.
