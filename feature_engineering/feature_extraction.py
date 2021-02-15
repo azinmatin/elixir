@@ -86,7 +86,7 @@ if __name__ == "__main__":
         print '#tags, genres, cast, directors', len(tags_dict), len(genres_dict), len(cast_dict), len(directors_dict)
         print 'no tags:', no_tag, 'no genres:', no_genre, 'no cast:', no_cast, 'no directors', no_dir
 
-        # nimfa feature reduction - NMF
+        # nimfa - NMF
         vec = DictVectorizer()
         Y = vec.fit_transform(X).toarray()
         nmf = nimfa.Nmf(Y, rank=dimensions, max_iter=30, update='euclidean', objective='fro')
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         print '#tags, authors', len(tags_dict), len(authors_dict)
         print 'no tags:', no_tag, 'no authors:', no_author
 
-        # nimfa
+        # nimfa - NMF
         vec = DictVectorizer()
         Y = vec.fit_transform(X).toarray()
         print Y.shape
