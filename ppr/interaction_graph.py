@@ -3,6 +3,8 @@ import numpy as np
 import sys
 sys.path.append('../')
 from elixir_utility.utils import get_file_name
+from networkx.readwrite.gml import literal_stringizer
+from networkx.readwrite.gml import literal_destringizer
 import argparse
 import ConfigParser
 
@@ -75,16 +77,9 @@ class InteractionGraph:
                 self.add_similar_nodes(item1_node, item2_node, sim_val)
 
     def merge_similarities(self, similar_pairs, lambda_value, sim_threshold):
-        # to be deleted
-        orig_pairs = {}
-
         for item1 in self.similar_nodes:
             for item2 in self.similar_nodes[item1]:
-                # to be deleted
-                # if self.similar_nodes[item1][item2] >= 0.625:
-                #     orig_pairs[frozenset([int(item1[5:]), int(item2[5:])])] = True
                 self.similar_nodes[item1][item2] *= lambda_value
-
 
         new_pairs_count = 0
         for pair in similar_pairs:
@@ -108,12 +103,6 @@ class InteractionGraph:
                     if item1 == item2:
                         print 'errooorrrrr', self.similar_nodes[item1][item2], item1, item2
                     deleted_pairs[frozenset((item1, item2))] = True
-                    # to be deleted
-                    # item1_id = int(item1[5:])
-                    # item2_id = int(item2[5:])
-                    # ids_pair = frozenset([item1_id, item2_id])
-                    # if ids_pair in similar_pairs and ids_pair not in orig_pairs:
-                    #     print item1_id, item2_id, 'from new deleted'
         for pair in deleted_pairs:
             pair_list = list(pair)
             item1 = pair_list[0]
@@ -175,8 +164,6 @@ class InteractionGraph:
             for i in range(num_nodes):
                 type_weight[i][i] += extra_weights[i]
 
-            #  type_weight += np.diag(one_vector - np.dot(type_weight, one_vector.T))
-
             # updating the edge_weights in the graph
             counter_edge = 0
             for i in range(num_nodes):
@@ -201,9 +188,7 @@ class InteractionGraph:
                                 counter_edge += 1
                                 self.graph[node1][node2]['weight'] = 0
                                 self.graph[node1][node2]['name'] = 'similar_to'
-                            self.graph[node1][node2]['weight'] += (1-beta) * edge_weight
-                            # added_value += (1-beta) * edge_weight
-                # print l[i], added_value
+                            self.graph[node1][node2]['weight'] += (1 - beta) * edge_weight
             print counter_edge, 'edges added in type', node_type
 
     def create_node(self, node_name, type, node_desc=""):
@@ -250,7 +235,6 @@ class InteractionGraph:
             self.graph.remove_edge(u, v)
             counter += 1
         return counter
-        # print counter, 'similarity edges deleted'
 
     def number_stc(self):
         return nx.number_strongly_connected_components(self.graph)
@@ -263,11 +247,9 @@ class InteractionGraph:
         return nodes
 
     def store_graph_gml(self, file_name):
-        from networkx.readwrite.gml import literal_stringizer
         nx.write_gml(self.graph, file_name, stringizer=literal_stringizer)
 
     def load_graph_gml(self, file_name):
-        from networkx.readwrite.gml import literal_destringizer
         self.graph = nx.read_gml(file_name, destringizer=literal_destringizer)
 
 
@@ -295,19 +277,19 @@ if __name__ == "__main__":
     sim_file = 'item-item-similarity-' + str(dimension) + '.txt'
     train_prefix = 'train'
     graph_prefix = 'graph_d_' + str(dimension)
-    if experiment_mode == 'S':
+    if experiment_mode == 'S':  # the graph contains user's feedback on recommendations
         train_prefix = 'train_d_' + str(dimension)
         train_prefix += '_rec_'+str(rec_per_user)+'_v_'+str(num_votes)
         graph_prefix += '_rec_'+str(rec_per_user)+'_v_'+str(num_votes)
     interactions_file = get_file_name(train_prefix, num_users, train_partition)
     print 'interaction file', interactions_file
     graph_file = get_file_name(graph_prefix, num_users, train_partition, 'gml')
-    dataset_path = 'YOUR PATH'
-    res_path = 'YOUR PATH'
+    dataset_path = "YOUR_PATH" + dataset + "-data/"
+    res_path = "YOUR_PATH" + dataset + "-data/"
 
     # load item names
     items_name = {}
-    item_names_file = 'id_link_map.txt'
+    item_names_file = 'id_link_map.txt'  # items.txt file with reversed order of columns
     delimiter = '\t'
     name_location = 1
 
@@ -321,7 +303,7 @@ if __name__ == "__main__":
                 item_name = tabs[name_location]
             items_name[item_id] = item_name
 
-    # build_interaction graph
+    # load interaction file movielens + build_interaction graph
     graph = InteractionGraph()
     type_colors = {'user': 'red', 'item': 'green'}
     graph.set_type_colors(type_colors)
