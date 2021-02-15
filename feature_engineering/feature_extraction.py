@@ -8,7 +8,7 @@ import nimfa
 
 if __name__ == "__main__":
     dataset = 'movielens-user-study'
-    path = "/GW/D5data-13/azin/third-project/" + dataset + '-data/'
+    path = "YOUR_PATH" + dataset + '-data/'
     items_ids_files = path + 'items.txt'
     dimensions = 20
     if dataset == 'movielens-user-study':
@@ -100,7 +100,7 @@ if __name__ == "__main__":
     elif dataset == 'goodreads-user-study':
         # --------------------- goodreads ------------------------
         dataset = 'goodreads-user-study'
-        path = "/GW/D5data-13/azin/third-project/" + dataset + '-data/'
+        path = "YOUR_PATH" + dataset + '-data/'
         items_features_file = path + "books_features.txt"
         items_ids_files = path + 'items.txt'
         dimensions = 20
