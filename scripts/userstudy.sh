@@ -16,7 +16,7 @@ python interaction_graph.py --c  "${config_file}" --g "${mode}"
 python rwr.py --c  "${config_file}" --g "${mode}"
 echo "finished rwr"
 
-# ------------ learning w values for any setup with pairs ---------------
+# ------------ learning w vectors from users' pair-level feedback ---------------
 cd "code_path/similarity"
 python update_similarity.py --s 0 --t 5 --c "${config_file}" --l "${loc}"&
 python update_similarity.py --s 5 --t 10 --c "${config_file}" --l "${loc}"&
@@ -41,7 +41,7 @@ cd "code_path/elixir_utility"
 python merge_scores_files.py --c "${config_file}" --g "${mode}" --l "${loc}"
 echo "finished incorporation"
 
-# ------------ incorporation pair-level + item-level feedback ---------------
+# ------------ incorporation of pair-level + item-level feedback ---------------
 mode=SP
 cd "code_path/ppr"
 python feedback_incorporation.py --s 0 --t 5 --c "${config_file}" --g "${mode}" --l "${loc}"&
@@ -61,4 +61,3 @@ echo "finished evaluation"
 
 echo "config file"
 echo "${config_file}"
-
