@@ -23,7 +23,7 @@ The released code contains the following packages:
 **user_study**: In this package, we generate spreadsheets for the study, preprocess the collected data and prepare the data for steps 3-6 of ELIXR’s pipeline.
 - **generate_study_files.py**: generates spreadsheets to be shared with the users.
 - **read_study_files.py**: reads the spreadsheets shared back by the users.
-- **selenium_scraper.py/goodreads_scraper**: crawl features of the movies/books from movielens.org website using selenium.
+- **selenium_scraper.py/goodreads_scraper**: crawl features of the movies/books from movielens.org/goodreads.com website using selenium.
 - **extract_interactions.py**: reads the initial ratings of the users.
 - **setups.py**: prepares data for steps 3-6 of the ELIXIR pipeline.
 
