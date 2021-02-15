@@ -1,0 +1,42 @@
+[shared]
+d = goodreads-user-study
+; d is the dataset
+m = RWR
+; m is the model. Currently we support only RWR
+folder = results/folder2
+; output folder
+num_users = 25
+e = 5
+; no. of explanations per recommendation
+i = 10
+; no. of nearest neighbors to a pair - a parameter of label propagation
+v = 0
+rec_per_user = 30
+; no. of recommendations per user
+beta = 0.1
+; parameter of recwalk
+dimension = 20
+feature_reduction = nmf
+
+[update_sim_unconstr]
+learning_rate = 0.01
+weight_decay = 2
+; coefficient of l2 norm regularizer
+n_epoch = 100
+; max. no. of epochs
+
+[feedback_inc]
+sim_threshold = 0.7
+; threshold for inclusion of a similarity edge
+num_vectors = 3
+; no. of random binary vectors - a parameter of lsh
+mode = translation
+; mode of feature transformation
+
+[merge]
+users_per_file = 5
+
+[experiments]
+train_ratio = 1
+test_ratio = 0
+feedback_ratio = 1
